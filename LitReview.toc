@@ -1,0 +1,20 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}GMSE: an R package for generalised management strategy evaluation - Duthie, AB, et al. (2018).}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Models in ecology}{6}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Theory and models in Ecology: a different perspective. (Caswell, 1988)}{6}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Individual-based modelling and ecological theory: synthesis of a workshop (Grimm 1999)}{7}{subsubsection.1.1.2}
+\contentsline {section}{\numberline {2}Management strategy in conservation conflicts}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}Conservation and the Myth of Consensus (Peterson, 2005)}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Uncertainty and adaptive management for biodiversity conservation (Keith et al., 2011)}{9}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Which uncertainty? Using expert elicitation and expected value of information to design an adaptive program (Runge 2011)}{9}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Management strategy evaluation: a powerful tool for conservation? (Bunnefeld, 2011)}{10}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}{11}{subsection.2.5}
+\contentsline {section}{\numberline {3}Game theory}{13}{section.3}
+\contentsline {subsection}{\numberline {3.1}Game Theory, Analysis of Conflict (Myerson,1997)}{13}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Models}{13}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}The conservation game (Colyvan et al., 2011)}{13}{subsection.3.2}
+\contentsline {section}{\numberline {4}Decision-making}{17}{section.4}
+\contentsline {section}{\numberline {5}Artificial intelligence}{17}{section.5}
+\contentsline {subsection}{\numberline {5.1}Genetic algorithms}{17}{subsection.5.1}
+\contentsline {section}{\numberline {6}Why should we conserve? From an evolutionary point of view.}{17}{section.6}
+\contentsline {section}{\numberline {7}AI ethics}{18}{section.7}
