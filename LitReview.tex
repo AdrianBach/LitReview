@@ -43,7 +43,7 @@
 When  the  actions  of  one  party  clashes  with  the  objectives  of  another  party,  the  objectives of  one  might  be  expressed  at  the  expense  of  the  other,  causing  conservation  conflict \citep{duthie2018}.\\
 Currently,  there  is  no  standard  way  to  measure  conservation  conflict  in  a  social-ecological  system  where  both the  natural  resource  (e.g.,  animals,  plants,  or  non-biological  resources)  and  the  people  (e.g.,  stakeholders,managers,  etc.)  are  modelled  in  a  single  system,  and  previous  modelling  approaches  have  not  meaningfully separated  agent  objectives  from  agent  actions. A  starting  point  to  developing  a  useful  metric of  conservation  conflict  is  to  quantify  the  deviation  of  an  individual’s  actions  from  their  objectives  (i.e.,  of actual  actions  from  desired  actions) \citep{duthie2018}.\\
 GMSE  does  not  currently distinguish  female  and  male  individuals \citep{duthie2018}.\\
-Conflict  might  persist  around  the  appropriate  target  population  size  rather  than  what actions  are  permitted  for  farmers;  currently,  this  potential  aspect  of  conflict  is  not  modelled,  but  future versions  of  GMSE  may  attempt  to  incorporate  such  additional  complexity  in  conflict  scenarios = Negotiations around manager's targets and policy \citep{duthie2018}.\\
+Conflict  might  persist  around  the  appropriate  target  population  size  rather  than  what actions  are  permitted  for  farmers;  currently,  this  potential  aspect  of  conflict  is  not  modelled,  but  future versions  of  GMSE  may  attempt  to  incorporate  such  additional  complexity  in  conflict  scenarios \citep{duthie2018} = Negotiations around manager's targets and policy.\\
 Future  versions  of  GMSE  will  allow  users  to affect  one  another  directly  (representing,  e.g.,  different  groups  of  agents  lobbying  for  different  interests,among-user  conflict,  etc.) \citep{duthie2018}.\\
 "No player can do better without the other player being worse off". Solutions with this property are called Pareto optimal \citep{COLYVAN20111246}. It is a solution from where the system cannot move without at least one player being worse off (includes both players being worse off).\\
 If no player would unilaterally change his or her action from a solution without loosing personal outcome, it is a Nash equilibrium (supposes that the player knows what the opponent strategy is).\\
@@ -67,14 +67,14 @@ Moreover, the selection process through generations allows for stochasticity thr
 
 
 \section*{Ideas}
-Allow GMSE to build the world according to a GIS layer for landscape.
-Include randomness into decision-making ?\\
+Allow GMSE to build the world according to a GIS layer for landscape.\\
+Include randomness into decision-making ? Already there, in the genetic algorithm: the decision is not optimal, it is just the best the agent could think of.\\
 Use impact to assess the quality of a policy?\\
-Use readings to justify the need of an adaptive model such as GMSE. Given what models has been used in previous studies.\\
-How to justify the strength of the causality link between management actions and resource's response.\\
+Use readings to justify the need of an adaptive model such as GMSE. Given which models have been used in previous studies.\\
+How to justify the strength of the causality link between management actions and resource's response?\\
 Try to formalize a ConFooBio case as a game.\\
 \textbf{Lit review has to present a very clear path from a large question (something like: "how modelling can help settling efficient management strategies in conservation conflicts ?") to a more specific question that will be the one I will be treating during the PhD, backed up by former studies.}\\
-Be strong on the definitions of \textbf{conservation}, \textbf{conflict}, \textbf{utility}, \textbf{game} in the theoretical sense, \textbf{Nash equilibrium}, \dots\\
+Be strong on the definitions of \textbf{conservation}, \textbf{conflict}, \textbf{utility}, \textbf{game} in the theoretical sense, \dots\\
 Emphasize on the fact that a sustainable conservation strategy is not to focus on nature only, but to find trade-offs between humans' interests and biodiversity.\\
 \textbf{WHY SEEKING CONSERVATION ?}\\
 Cognitive bias : anchor effect. We usually need a first guess to calibrate our judgement, but the utility associated with this guess strongly influences the way we estimate the alternative options' utility.\\
@@ -106,7 +106,7 @@ It could be a mix of money, time, energy, well-being.\\
 Cognitive bias in negotiations: anchor effect.
 
 
-\section{GMSE:  an  R  package  for generalised  management  strategy  evaluation - Duthie,  AB,  et al.  (2018).}
+\section*{GMSE:  an  R  package  for generalised  management  strategy  evaluation - Duthie,  AB,  et al.  (2018).}
 
 \textbf{Key words}: Conservation, conflicts, adaptive management, genetic algorithm, spatially explicit population dynamics, goal-oriented behaviour.\\
 
@@ -153,9 +153,9 @@ The aim of GMSE is not only conservation or maximising human activity income, bu
 
 \textbf{SI6}: GMSE  might  be  used  to  assess  the  risk  of  extinction  in  a  managed  population, through repeated simulations varying in the frequency of managers intervenes. Possibility of extinction increases exponentially with this frequency.
 
-\subsection{Models in ecology}
+\section{Models in ecology}
 
-\subsubsection{Theory and models in Ecology: a different perspective. (Caswell, 1988)}
+\subsection{Theory and models in Ecology: a different perspective. (Caswell, 1988)}
 \textbf{Key words}: Theoretical approach, experimental approach, models, legitimacy, critique.\\
 
 Fight the unjustified criticism towards mathematical models in ecology.
@@ -172,7 +172,7 @@ Refute a theory is not abandoning it, it is an encouragement for improvement.\\
 "Does the model include such important factor (related to my field of study) ?". Irrelevant most of the time. Just as most experimental set-ups assessing one to two factors in relation to an other, the theoretical approach cannot take all the factors into account, and must also focus on the variables relevant to its research question.\\
 \textbf{"\textit{models are to theoretical problems as experiments are to empirical problems.}"}
 
-\subsubsection{Individual-based  modelling  and  ecological  theory: synthesis  of  a  workshop (Grimm 1999)}
+\subsection{Individual-based  modelling  and  ecological  theory: synthesis  of  a  workshop (Grimm 1999)}
 
 3 main arguments against the use of IBMs in Ecology: " complex  models  are  hard  to develop,   hard to   communicate,   and   hard   to understand."\\
 The only way to communicate models is through verbal and mathematics description, but the core of the model is the code, which is incommunicable by definition. It is where all the errors and bugs can dwell, thus falsifying the information taken out of it. No one has the time to implement the model him/herself based on the verbal description. (ndlr - same for experiments by the way! It's time costly to redo an experiment.) Beware of putting more effort in the coding than the the analysis, it could lead to a "WhatYouWantIsWhatYouGet" fallacy. Models has to be as simple as possible! Unnecessary complexity, although being an interesting challenge, would just result in the model being harder to communicate and analyse, thus reducing its scientific value.\\
@@ -223,7 +223,7 @@ decision making by testing their predictions. Managers often wilfully ignore sci
 when policies fail in attempts to shift responsibility for failed policy implementation to the scientific community".
 
 \subsection{Which uncertainty? Using expert elicitation and expected value of information to design an adaptive program (Runge 2011)}
-\textbf{Key words}:\\
+\textbf{Key words}: Expected Value of Information, Expert Elicitation, Decision-making, Conservation, Adaptive Management, Workshop.\\
 
 \textbf{"Natural resource management is plagued with uncertainty of many kinds, but not all uncertainties are equally important to resolve."}\\
 "The promise of adaptive management is that learning in the short-term will
@@ -257,9 +257,8 @@ Identify objectives, measures that can be associated with it, weight their relat
 EVPI is the utility gain associated to the fact of knowing \textit{a priori} the best option. The first term is the utility of action a having the info about the best thing to do if the system behave a certain way \textit{s}. The second term is the utility of the same action without having prior knowledge of the best thing to do.
 A positive EVPI traduces a information worth than investment. But only if "it is possible to reduce the uncertainty through monitoring, and whether the short-term costs of acquiring the information are off-set by the long-term benefits of the information".
 
-\subsection{A critical assessment of adaptive ecosystem management in a large savanna
-protected area in South Africa (Wilgen, 2011)}
-\textbf{Keywords}:
+\subsection{A critical assessment of adaptive ecosystem management in a large savanna protected area in South Africa (Wilgen, 2011)}
+\textbf{Keywords}: National patk conservation, Strategy building, Consensus on thresholds, multi-stakeholder conflict, feedback.\\
 
 Interesting to-do-list for planning an adaptive management strategy. can be useful for GMSE?
 
@@ -284,6 +283,18 @@ consequences."
 \end{center}
 Management based on thresholds has proven to be quite difficult in terms of monitoring and accuracy.
 Too much time spent on revising thresholds and changing monitoring methods.
+
+\subsection{State-and-transition modelling for Adaptive Management of native woodlands (Rumpff, 2011)}
+
+"Adaptive Management is a ‘learning by doing’
+approach that acknowledges management action must proceed
+in the face of uncertainty, but facilitates iterative updating of
+knowledge and management strategies (
+Walters, 1986; Ringold
+et al., 1996
+). In this way, Adaptive Management ensures that future
+management decisions are socially, economically, and scientifically
+defensible."
 
 \subsection{Management strategy evaluation: a powerful tool for conservation? (Bunnefeld, 2011)}
 \textbf{Key words}: MSE framework, management conflicts, multi-model approach, conservation.\\
