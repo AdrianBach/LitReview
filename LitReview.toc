@@ -1,16 +1,16 @@
 \babel@toc {english}{}
-\contentsline {section}{\numberline {1}GMSE: an R package for generalised management strategy evaluation - Duthie, AB, et al. (2018).}{4}{section.1}
-\contentsline {subsection}{\numberline {1.1}Models in ecology}{6}{subsection.1.1}
-\contentsline {subsubsection}{\numberline {1.1.1}Theory and models in Ecology: a different perspective. (Caswell, 1988)}{6}{subsubsection.1.1.1}
-\contentsline {subsubsection}{\numberline {1.1.2}Individual-based modelling and ecological theory: synthesis of a workshop (Grimm 1999)}{7}{subsubsection.1.1.2}
+\contentsline {section}{\numberline {1}Models in ecology}{6}{section.1}
+\contentsline {subsection}{\numberline {1.1}Theory and models in Ecology: a different perspective. (Caswell, 1988)}{6}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Individual-based modelling and ecological theory: synthesis of a workshop (Grimm 1999)}{8}{subsection.1.2}
 \contentsline {section}{\numberline {2}Management strategy in conservation conflicts}{8}{section.2}
 \contentsline {subsection}{\numberline {2.1}Conservation and the Myth of Consensus (Peterson, 2005)}{8}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Uncertainty and adaptive management for biodiversity conservation (Keith et al., 2011)}{9}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Which uncertainty? Using expert elicitation and expected value of information to design an adaptive program (Runge 2011)}{9}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}A critical assessment of adaptive ecosystem management in a large savanna protected area in South Africa (Wilgen, 2011)}{10}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}Management strategy evaluation: a powerful tool for conservation? (Bunnefeld, 2011)}{11}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}{12}{subsection.2.6}
-\contentsline {paragraph}{SI.}{14}{section*.5}
+\contentsline {subsection}{\numberline {2.3}Which uncertainty? Using expert elicitation and expected value of information to design an adaptive program (Runge 2011)}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}A critical assessment of adaptive ecosystem management in a large savanna protected area in South Africa (Wilgen, 2011)}{11}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}State-and-transition modelling for Adaptive Management of native woodlands (Rumpff, 2011)}{11}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Management strategy evaluation: a powerful tool for conservation? (Bunnefeld, 2011)}{12}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}{12}{subsection.2.7}
+\contentsline {paragraph}{SI.}{14}{section*.6}
 \contentsline {section}{\numberline {3}Game theory}{14}{section.3}
 \contentsline {subsection}{\numberline {3.1}Game Theory, Analysis of Conflict (Myerson,1997)}{14}{subsection.3.1}
 \contentsline {subsubsection}{\numberline {3.1.1}Models}{15}{subsubsection.3.1.1}
