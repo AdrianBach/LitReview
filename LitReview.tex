@@ -83,7 +83,7 @@ Cognitive bias : anchor effect. We usually need a first guess to calibrate our j
 design a survey on how people perceive AI.\\
 \textbf{I could use EVPI to assess the most impacting interaction to implement.} Would require a very precise question!
 
-\subsection*{Brad meeting on 12th of october}
+\subsection*{Brad meeting on 12th of October}
 Lands close to public areas suffer from a higher problematic population, because resources reproduce faster in public areas. Plus, the other landowners scare theirs away. There might be a need to adapt policies to public areas proximity.\\
 GMSE is implemented well enough because, following rules based on real cases observations, it succeeds in finding policies that equitably conserve the species and maintain users yield.
 Even if it can not fit perfectly to all the possible situations (which is not its goal), the model can help to spot relevant aspects of the conflict that were neglected before.
@@ -106,7 +106,8 @@ Maybe allowing them to save some budget for next time step.
 Good training on C. The increase in budget must be coherent with what the budget represents.
 It could be a mix of money, time, energy, well-being.\\
 Cognitive bias in negotiations: anchor effect.\\
-ConSerVation / ConVerSation. When you turn the Versus over.
+ConSerVation / ConVerSation. When you turn the Versus over.\\
+Dress a non-exhaustive list of the different models used in conservation management.
 
 
 \section*{GMSE:  an  R  package  for generalised  management  strategy  evaluation - Duthie,  AB,  et al.  (2018).}
@@ -125,14 +126,14 @@ Basic functioning of GMSE.
 \begin{enumerate}
                 \item A population of discrete resources (e.g.,a managed species) with individual traits (e.g., location, age) is modelled on a spatially-explicit landscape and can simulate resource birth, movement, interaction with the landscape, and death; the discrete nature of resources causes demographic stochasticity, and therefore uncertainty. %This sub-model is unique in not relying on other sub-models because ecological dynamics can be simulated in the absence of observation and management.
                 \item Observation is modelled in one of four ways: resource counting on a subset of landscape cells (e.g., Nuno et al., 2013), marking and recapturing a fixed number of resources, and resource counting across the whole landscape either one linear transect or one rectangular block at a time (during which resources might move). Sampling error from all observation types generates a range of uncertainties that depend on monitoring effort.
-                \item Managers analyse data collected from observations to estimate resource abundance, then compare this estimate with their predefined target abundance. Policy is developed by calling the genetic algorithm, which works within a manager’s constraints to find costs for user actions on the resource (e.g., culling, scaring, etc.) that minimise deviation from the target abundance, as informed by the predicted consequences of each action on resource abundance and user action histories.
+                \item Managers analyse data collected from observations to estimate resource abundance, then compare this estimate with their predefined target abundance. Policy is developed by calling the genetic algorithm, which works within a manager constraints to find costs for user actions on the resource (e.g., culling, scaring, etc.) that minimise deviation from the target abundance, as informed by the predicted consequences of each action on resource abundance and user action histories.
                 \item After a suitable policy is found, users perform actions that affect resources or landscape cells. Users respond to policy individually, each calling the genetic algorithm to find actions that maximise their own utilities (e.g., maximise resource use or landscape yield) within their imposed constraints. Once each user has found an adaptive strategy, user actions affect resources and landscape cells, feeding back into the resource sub-model.
 \end{enumerate}
 \begin{center}
 \includegraphics[scale=0.5]{GMSE-diagram.PNG}
 \end{center}
 
-Genetic algorithm: called each time a manager or a user has to make a decision. Generates a unique population of strategies (e.g. for a manager, allow such budget to such change in the cost of actions) with an associated fitness. The algorithm allow them to "\textbf{cross-over and mutate}" and reevaluates their fitness. After burning some iterations, the decision is made when the fittest strategy fitness increase is below a chosen threshold.\\
+Genetic algorithm: called each time a manager or a user has to make a decision. Generates a unique population of strategies (e.g. for a manager, allow such budget to such change in the cost of actions) with an associated fitness. The algorithm allow them to "\textbf{cross-over and mutate}" and re-evaluates their fitness. After burning some iterations, the decision is made when the fittest strategy fitness increase is below a chosen threshold.\\
 
 SI1:  Each  run  of  the  genetic  algorithm  mimics  the evolution  by  natural  selection  of  a  population  of  potential  manager  or  user  strategies  over  multiple  iterations.\\
 Deeper in the code for ACTION arrays, the  first  column Act identifies the  type  of  action  being  performed;  a  value  of  -2  defines  a  direct  action  to  a  resource  (e.g.,  culling  of  the resource),  and  a  value  of  -1  defines  direct  action  to  a  landscape  (e.g.,  increasing  yield).  Positive  values  are currently  only  meaningful  for Manager\_Actions,  where  a  value  of  1  defines  an  action  setting  a  uniform  cost of  users’  direct  actions  on  resources  (i.e.,  costs  where Act  =  -2 for User\_1\_Actions and User\_2\_Actions). \textbf{It's a key value to add interactions between agents, e.g. a value of X is a direct action on user1 specifically)}\\
@@ -193,7 +194,7 @@ But very often, different consensus are reached in different communities, which 
 Reaching a consensus on the fact that conservation can go alongside with economical growth is possible, but would require to ignore research work and personal experience that prove the contrary. In this sense, the very notion of consensus of conservation in our growth-oriented societies faces a wall.\\
 Management by consensus is risky because tying to meet every stakeholders expectations need agreement processes that can slow -sometimes eliminate- the impetus for a change. Moreover, such question usually arise within organised communities where some instance has the power to orientate the consensus in a way that does not threaten the current hierarchical positions.\\
 Commonly accepted definition of sustainable development : "A development that meets the needs of the present without compromising the ability of future generations to meet their own needs".
-A definition based on which every "community" builted its own reality, resulting in very different points of vue.\\
+A definition based on which every "community" built its own reality, resulting in very different points of vue.\\
 "The emphasis on win-win outcomes in consensus-based models for environmental decision making is problematic in part because we achieve the illusion of objectivity and universal reason only by bracketing or masking conflicts among participating groups and individuals. We thus treat as truth that which could just as easily be understood as hegemony. As Mouffe (2000) contends, the illusion of consensus is fatal to democracy because a healthy democratic process requires recognition of differing interests and the recognition that open conflict about differing interests is legitimate."
 To avoid conflict and to secure their position, "dominant elites generally prefer consensus-based approaches over those based on argumentation". Interesting for GMSE.
 Ivie (2004) specifies that, “democratic dissent in a period of war or crisis is as alarming to the purveyors of prevailing opinion as it is critical to a nation’s political welfare.”
@@ -201,7 +202,7 @@ Consensus strengthen current political instances and their globalised, growth-or
 "The hypothetico-deductive scientific method suggests reality only by methodically eliminating alternatives (Murphy \& Noon 1991), not by proving truths." Thus, it cannot provide any answer for a policy question.\\
 \textbf{"Why focus our efforts on on achieving the improbable and possibly unwanted goals
 of monism in science and government, when an emphasis  on  negotiation  (de  Graaf  et  al.  1996) within democratic processes (Mouffe 2000) can explicate the implicit value judgments required for conservation to be successful, and simultaneously empower citizens to participate in the application of science to democracy? Within this argument-based model, environmental decision making reflects deliberation, debate, and conflict about both direct and indirect scientific observations of the physical world."}\\
-"Consensus-based approaches to environmental  policy  are  necessary  but  insufficient  to  ensure the best decisions. An emphasis on argument legitimizes and facilitates change, whereas an emphasis on consensus further legitimizes continuity or stability."
+"Consensus-based approaches to environmental  policy  are  necessary  but  insufficient  to  ensure the best decisions. An emphasis on argument legitimises and facilitates change, whereas an emphasis on consensus further legitimises continuity or stability."
 
 \subsection{Uncertainty and adaptive management for biodiversity conservation (Keith et al., 2011)}
 
@@ -261,7 +262,7 @@ EVPI is the utility gain associated to the fact of knowing \textit{a priori} the
 A positive EVPI traduces a information worth than investment. But only if "it is possible to reduce the uncertainty through monitoring, and whether the short-term costs of acquiring the information are off-set by the long-term benefits of the information".
 
 \subsection{A critical assessment of adaptive ecosystem management in a large savanna protected area in South Africa (Wilgen, 2011)}
-\textbf{Keywords}: National patk conservation, Strategy building, Consensus on thresholds, multi-stakeholder conflict, feedback.\\
+\textbf{Keywords}: National park conservation, Strategy building, Consensus on thresholds, multi-stakeholder conflict, feedback.\\
 
 Interesting to-do-list for planning an adaptive management strategy. can be useful for GMSE?
 
@@ -272,7 +273,7 @@ achieve objectives." Users in the sense of MSE, are not taken into account in th
 Conservation motivations: preserve local habitats, avoid threat on local species by invasive alien species, control animal population, maintain the existing interactions. Different purpose, mainly ecology and tourism.\\
 First, all the stakeholders talk through a list of objectives associated with a priority. Then agreeing on lower and upper thresholds to give any objective a range of satisfaction.\\
 Active adaptive policy: implementing rapidly policies in order to acquire information on the outcomes, both expected and unexpected.\\
-"In complex social–ecological systems, the achievement of desired outcomes through management intervention cannot be guaranteed, and, in addition, the outcomes may be replaced with
+"In complex socilogical-ecological systems, the achievement of desired outcomes through management intervention cannot be guaranteed, and, in addition, the outcomes may be replaced with
 different ones that appear more desirable as understanding increases."\\
 Example of difficulty of reaching a consensus: "A decade ago, conservation authorities and the government
 were unable, in the face of conflicting evidence, interpretations
@@ -297,7 +298,29 @@ Walters, 1986; Ringold
 et al., 1996
 ). In this way, Adaptive Management ensures that future
 management decisions are socially, economically, and scientifically
-defensible."
+defensible."\\
+"some of the problems
+[preventing AM to be implemented], such as complexity of natural systems and uncertainty and
+paucity of appropriate data about management effectiveness, are
+the very factors that recommend Adaptive Management and its
+promise of transparency and defensibility in management."\\
+Most existing STM are said to "fail to meet three key requirements of a working model
+for Adaptive Management: (1) quantitative predictive capability;
+(2) representation of uncertainty in states and transitions; and
+(3) amenability to updating as new knowledge accumulates."\\
+"Quantifying system response allows us to make predictions about
+the relative efficacy of management options and to identify and explore the ‘critical uncertainties’ that most impact on our ability to
+accurately predict responses to management and, therefore,
+choose the best course of action or the best investment strategy."\\
+Everyone involved in conservation conflicts uses models all the time, but they are verbal (e.g. allowing geese-hunting will increase farmers income, planting these trees here will create habitat for birds and prevent weed development). When it comes to formalise them into something one can use for simulations (in order to predict systems response, identify uncertainties, or help decision-making), confidence in the model drops. Thus, it is believe to be something deeply scientific and invaluable in wildlife management.\\
+The model complexity must be consistent with stakeholders expectations, and conservation goals.\\
+"Transition $=$ A change in state, caused by the crossing of a
+threshold value for one or more of the state
+variables". Thresholds, states, variables, and transitions have been determined with several workshop with ecologists and natural resources managers.\\
+All the states are not linked with transitions. A derived landscape can not shift to a reference state without going through the simple state. How do they justify it?\\
+Differentiate biotic and abiotic factors that can be controlled by management actions (process) and the ones that management can not act on (independent).\\
+They deal with uncertainty proposing to tweak thresholds, transitions, and states to compare results. I am not very satisfied with it.\\
+Bayesian framework: simulate the transition probability given such and such management actions assuming prior knowledge on the likelihood of transitions under these particular management strategies; than monitoring and assessing actual transition probability; finally correct the model with actual prior knowledge on the likelihood. That way could spot which strategy was best and worse estimated.  way of \textbf{learning} for the Bayes Net.
 
 \subsection{Management strategy evaluation: a powerful tool for conservation? (Bunnefeld, 2011)}
 \textbf{Key words}: MSE framework, management conflicts, multi-model approach, conservation.\\
@@ -307,9 +330,9 @@ defensible."
 "MSEs can evaluate which data and how much of it should be collected and how often monitoring should be carried out to improve management performance."\\
 Uncertainty occurs in each of the sub-models population dynamics, population estimation, institutional inertia and users compliance. Implementing them is also a way to quantify their relative importance.\\
 "Management often works against the short-term economic interests of those who depend upon resources by decreasing the harvest or closing areas to protect its natural resources."\\
-"[\dots] models on the line fishery of the Great Barrier Reef include how individual fishers [\dots] ommunicate
+"[\dots] models on the line fishery of the Great Barrier Reef include how individual fishers [\dots] communicate
 information amongst each other." (with references!)\\
-GMSE "has been criticized for: (i) having a longer development time (and thus increased costs) than traditional methods such as reference-based off-take rules; (ii) an upfront MSEcan provide an overly rigid framework without room for decision-makers to change management in an adaptive way; and (iii) poor data inputs (e.g., gaps in monitoring or extremely low estimates of uncertainty) affect the performance of MSE, which needs to be recognized and explored within the MSE process." Incapacity to monitor the focal species can also be a highly problematic factor for the implementation of a MSE.
+GMSE "has been criticized for: (i) having a longer development time (and thus increased costs) than traditional methods such as reference-based off-take rules; (ii) an upfront MSE can provide an overly rigid framework without room for decision-makers to change management in an adaptive way; and (iii) poor data inputs (e.g., gaps in monitoring or extremely low estimates of uncertainty) affect the performance of MSE, which needs to be recognized and explored within the MSE process." Incapacity to monitor the focal species can also be a highly problematic factor for the implementation of a MSE.
 
 \subsection{Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}
 \textbf{Key words}: management conflicts, lobbying, users compliance, illegal harvesting, GMSE.\\
@@ -328,8 +351,8 @@ On the other hand, illegal harvesting intensity increases exponentially as focal
 GMSE = "stochastic growth of the population"?\\
 "Management effectiveness was assessed as the mean resource population size at time step 10 across iterations."
 
-\paragraph{SI.} A major feature of MSE is to take into account incertainty in all the key parts of conflict management: ressource stochasticity, monitoring errors, (ndlr) and unoptimal decision-making. Jeremy tried to fill the gap of desagreement on manager's population target.\\
-J emitted the idea that conservation lobbists could influence the system by buying and protecting lands.\\
+\paragraph{SI.} A major feature of MSE is to take into account uncertainty in all the key parts of conflict management: resource stochasticity, monitoring errors, (ndlr) and unoptimal decision-making. Jeremy tried to fill the gap of disagreement on manager's population target.\\
+J emitted the idea that conservation lobbyists could influence the system by buying and protecting lands.\\
 "management  target  can  be  achieved 
 only 
 for 
@@ -350,10 +373,10 @@ through  enforcement  or  user  engagement."\\
 "\textit{Game theory can be defined as the study of mathematical models of conflict and cooperation between intelligent rational decision makers [which choices] affect one another welfare}."\\
 Origins in WWII, to help understanding the issue of the nuclear cold war.\\
 Games are simplified vision of actual conflicts, the actual complexity being unreachable to us. But such complexity would prevent us from understanding the fundamental issues of conflict and cooperation. As any other scientific work, game models deliberately omit less relevant details of actual situation to allow the study of particular phenomenon in the scope of a particular question.\\
-Players act in order to maximise the expected value of its outcome $=$ \textit{utility}. Utility is not necessarily quantified as monetary payoff, it can be time, effort saved, well-being, happiness, and even a mix of them.\\
+Players act in order to maximise the expected value of its outcome $=$ \textit{utility}. Utility is not necessarily quantified as monetary pay-off, it can be time, effort saved, well-being, happiness, and even a mix of them.\\
 Players are supposed to follow the expected utility maximising theorem. This theorem is consistent with the innumerable observations of evolutionary selection in biological system, doing whatever they can to survive and/or reproduce. It can go further in terms of entropy/order, all living being tends to consume order to slow the process of entropy increasing on their body (order being the expected utility to maximise).\\
 The author refers to \textit{intelligent} as players that has knowledge of the game theory framework, and is able to reach the same inferences as a game theorist. It is a questionable assumption but consistent with the fact that humans are able to learn from mistakes. (?)\\
-\textit{Bayesian decision theory.} Two models for utility function: probability model (objectives unknown) and state-variable model (subjective unknowns). Objective unknowns $=$ you know the outcome possibilities and their probabilities (e.g. loteries). Subjective unknowns $=$ you do not know the probabilities (e.g. horse races).
+\textit{Bayesian decision theory.} Two models for utility function: probability model (objectives unknown) and state-variable model (subjective unknowns). Objective unknowns $=$ you know the outcome possibilities and their probabilities (e.g. lotteries). Subjective unknowns $=$ you do not know the probabilities (e.g. horse races).
 A decision making model can be descriptive (show why a decision was the best for a player), or prescriptive (this is what you should do in this situation according to the model).\\
 Several cases in which expected utility maximising is usually not respected.
 
@@ -445,7 +468,7 @@ cooperation is more likely to emerge from bottom-up community-based programs tha
 "The extant incentive structure only targets individual hunters
 through punishment rather than benefits, while non-hunters reap
 tangible rewards from a successful wildlife management program—the consequence is that hunters reject the management regime."\\
-‘‘no self-monitoring agreement can be sustainable without a payment to each individual that exceeds the opportunity cost of monitoring—even if no one is poaching’’ (
+‘‘no self-monitoring agreement can be sustainable without a payment to each individual that exceeds the opportunity cost of monitoring — even if no one is poaching’’ (
 Mesterton-Gibbons and
 Milner-Gulland, 1998).\\
 "i) fines proportional to the number of trophies in a poacher’s
@@ -470,7 +493,7 @@ lowest level of energy and it schemes to make this happen. Humans attempting to 
 with different intentions and they must play against nature."\\
 "It is useful to distinguish between nature as a player in a game
 and nature as a rule maker. There will be structural features of the
-game —such as, which moves are available to a player— that are
+game — such as, which moves are available to a player — that are
 immutable and non-negotiable." It can also play both roles, just as a government that sets costs (rule-maker, manager), but is open to negotiations (player).\\
 "a core conservation
 concern: ensuring species (and environmental resources more generally) never reach irreversible thresholds below which population
@@ -541,36 +564,37 @@ Would it make sense in the way that general, overall biodiversity is not the goa
 Biodiversity, as the net between ecosystems, species and genetic diversities, is the key for environment to respond to change, and subsist. Losses in any kind of theses bio-diversities, or the links between them, will result in a environment much more sensible/weaker to changes.\\
 
 Post on Sti-CS website: What kind of conservationist are you?
+Cf futureconservation.org.
 A questionnaire supposed to identify which kind between New Conservationist (conservation is about human well-being rather than nature's sake. Emphasise on the role of biodiversity in economic growth. More generally, including nature in the economic system so people care more.), Market Biocentrist (promote free market to let more sustainable markets to develop thus reducing our resources consumption), Critical Social Scientist (see below - Growth and market sceptic, understanding that conservation has to include people's life and well-being), Traditional Conservationist (Mainly nature-driven, with human well-being in mind but not a actual goal, promote protected areas, mainly in yet untransformed landscaped as preventive measures). Some trouble hesitating to answer "aspirationally (this is how it should be) or more realistically (this is how it should be, given the circumstances)". 
 
 My answers to the questions:\\
-\textbf{Advancing the wellbeing of all people should be a goal of conservation.} Disagree - The goal of conservation is to manage our impact on wildlife, by being aware of the consequences of our actions so we can choose them wisely. If it result in better wellbeing it's great but it is not a goal \textit{per se} to me.\\
+\textbf{Advancing the well-being of all people should be a goal of conservation.} Disagree - The goal of conservation is to manage our impact on wildlife, by being aware of the consequences of our actions so we can choose them wisely. If it result in better well-being it's great but it is not a goal \textit{per se} to me.\\
 \textbf{Non-native species offer little conservation value.} Disagree - The value we attribute species should be adaptive, they now belong to the "previous" ecosystem and are thus part of its balance. They should enter in the scope of conservation as well.\\
 \textbf{Conservation goals should be based on science.} Slightly disagree - Conservation should be based on both sciences and empirical knowledge on inhabitants expectations. Sustainable management strategy can only emerge when every party is happy with it.\\
-\textbf{Human affection for nature grows in line with income.} Disagree - Sometimes the poorest people rely a lot on what we call "ecological services" for "survival" so they might care a lot for nature. But very rich people tend to not care that much in comparison to fortune. But as soon as something "natural" is an income resource, they might be very focused on it and forget about nature in a broader sense. There might be a difference to make between people using ecological services as source of monetary income and those needing them to survive. Among the first kind, it might be a sort of gaussian relationship, \textit{might be interesting to check}.\\
+\textbf{Human affection for nature grows in line with income.} Disagree - Sometimes the poorest people rely a lot on what we call "ecological services" for "survival" so they might care a lot for nature. But very rich people tend to not care that much in comparison to fortune. But as soon as something "natural" is an income resource, they might be very focused on it and forget about nature in a broader sense. There might be a difference to make between people using ecological services as source of monetary income and those needing them to survive. Among the first kind, it might be a sort of Gaussian relationship, \textit{might be interesting to check}.\\
 \textbf{Protecting nature for its own sake does not work.} Strongly agree - It has to include human interests so it can be efficient and sustainable.\\
-\textbf{There is a risk that economic rationales for conservation will displace other motivations for conservation.} Agree - And it could lead to species intersting to humans to get more attention and feed what I would call the "monoculture" effect.\\
-\textbf{Conservation messages that emphasise the value of nature for nature's own sake are more effective than those that promote the benefits of nature to humans.} Agree - the masses seem more sensible to the disparition of species than the loss of income of farmers.\\
-\textbf{Conservation should work with, not against, capitalism.} Disagree - Capitalism is kind of antinomic to conservation to me, but it can use its semantic/logos to make stakeholders agree on the fact that unlimited exploitation is not a sustainable solution.\\
+\textbf{There is a risk that economic rationales for conservation will displace other motivations for conservation.} Agree - And it could lead to species interesting to humans to get more attention and feed what I would call the "monoculture" effect.\\
+\textbf{Conservation messages that emphasise the value of nature for nature's own sake are more effective than those that promote the benefits of nature to humans.} Agree - the masses seem more sensible to the extinction of species than the loss of income of farmers.\\
+\textbf{Conservation should work with, not against, capitalism.} Disagree - Capitalism is kind of antinomian to conservation to me, but it can use its semantic/logos to make stakeholders agree on the fact that unlimited exploitation is not a sustainable solution.\\
 \textbf{Conserving nature for nature's sake should be a goal of conservation.} Slightly disagree - I like the way nature is right now, would be glad to continue seeing it that way, but it should not be a goal of conservation. It should focus on reducing and avoiding conflict with humans.\\
-\textbf{To achieve conservation goals, human population growth must be reduced.} Slighly disagree - It would be a very efficient solution but not feasable, what is more feasable is changing northern consumerism.\\
+\textbf{To achieve conservation goals, human population growth must be reduced.} Slightly disagree - It would be a very efficient solution but not doable, what is more feasible is changing northern consumerism.\\
 \textbf{Conservation goals should be based on ethical values.} Disagree - Ethics are rooted in culture too much, and differs greatly to one another.\\
-\textbf{Strict protected areas are required to achieve most conservation goals.} Neutral - If the area has been specificly dedicated to it, yes. But one could also think of these places as a haven of human non-interference.\\
+\textbf{Strict protected areas are required to achieve most conservation goals.} Neutral - If the area has been specifically dedicated to it, yes. But one could also think of these places as a haven of human non-interference.\\
 \textbf{Giving a voice to those affected by conservation actions improves conservation outcomes.} Strongly agree - Involvement is more efficient than enforcement.\\
 \textbf{To achieve its goals, conservation should seek to reform global trade.} Disagree - If the exploitation were meant to provide for local populations only, I suspect they would be smaller, and would be less likely to enter in complex conflict with wildlife.\\
-\textbf{Economic arguments for conservation are risky because they can lead to unintended negative conservation outcomes.} Slighly agree - Could lead to more "monocultures".\\
-\textbf{The best way for conservation to contribute to human wellbeing is by promoting economic growth.} Strongly disagree - Economic growth is a irrational concept that is absolutely not sustainable, and should not be promoted by anything.\\
+\textbf{Economic arguments for conservation are risky because they can lead to unintended negative conservation outcomes.} Slightly agree - Could lead to more "monoculture".\\
+\textbf{The best way for conservation to contribute to human well-being is by promoting economic growth.} Strongly disagree - Economic growth is a irrational concept that is absolutely not sustainable, and should not be promoted by anything.\\
 \textbf{Conservation must benefit poor people because to do so is an ethical imperative.} Disagree - It does not have to benefit anyone, it has to trade-off.\\
 \textbf{Pristine nature, untouched by human influences, does not exist.} Slightly disagree - Even thought you can find plastic shreds pretty much everywhere, I believe there are still places where human influence is anecdotic.
-\textbf{Maintaining biological diversity should be a goal of conservation.} Agree - It is a necessary condition for the wellbeing of an ecosystem.\\
-\textbf{There is no significant conservation value in highly modified landscapes.} - Slighly disagree - Even if there is not much left to conserve, highly modified landscapes can still use ecological services, and they can help reducing energy consumption.\\
-\textbf{Nature often recovers from even severe perturbations.} Strongly agree - Yet it might be in a very unpredictible way and might never resemble what we knew before, nor being suitable for humans or many other contemporary species.\\
+\textbf{Maintaining biological diversity should be a goal of conservation.} Agree - It is a necessary condition for the well-being of an ecosystem.\\
+\textbf{There is no significant conservation value in highly modified landscapes.} - Slightly disagree - Even if there is not much left to conserve, highly modified landscapes can still use ecological services, and they can help reducing energy consumption.\\
+\textbf{Nature often recovers from even severe perturbations.} Strongly agree - Yet it might be in a very unpredictable way and might never resemble what we knew before, nor being suitable for humans or many other contemporary species.\\
 \textbf{Having multiple rationales for conservation weakens the conservation movement.} Disagree - Even if it makes it more complex, it makes it more adapted, adaptive and sustainable.\\
 \textbf{Conservation actions should primarily be informed by evidence from biological science.} Agree - But also by any kind of other tangible evidence.\\
 \textbf{To achieve conservation goals, the environmental impact of the world's rich must be reduced.} Agree - Them first, but much better if every one could do the same.
 \textbf{Working with corporations is not just pragmatic; they can be a positive force for conservation.} Slightly agree - It can be a marketing force, but I would be surprised if it was not productivity driven.\\
 \textbf{Humans are separate from nature, not part of it.} Slightly agree - They have means of resources assimilation that put them aside from the rest of the species, but they interact with nature just as much as every other and impact them in a much greater way, so they are still part of it. They just suffer less natural selection \textit{(is there a way to assess the intensity of selection in population genetics?)}.\\
-\textbf{Conservation communications are more effective when they use negative 'doom and gloom' messages rather than positive messages.} Slighly agree - people are more sensible to their own threat, or to the suffering of charismatic animals.\\
+\textbf{Conservation communications are more effective when they use negative 'doom and gloom' messages rather than positive messages.} Slightly agree - people are more sensible to their own threat, or to the suffering of charismatic animals.\\
 \textbf{When communities manage their own resources, their efforts are more effective than top-down approaches.} Agree - Involvement is stronger than enforcement.\\
 \textbf{Conservation should seek to reduce the emotional separation of people from nature.} Slightly agree - It goes with being conscious of the consequences of its loss, but not necessary. People just has to understand the consequences and agree with the solution.\\
 \textbf{Conservation will only be a durable success if it has the support of corporations.} Disagree - No one needs their support, conservation is also about gaining confidence on our individual value and consequences of our actions. \textit{Corporations are deflective shield, we go through them so we don't face the consequences of our consumerism.} Yet, they can help spreading a way of thinking.\\
