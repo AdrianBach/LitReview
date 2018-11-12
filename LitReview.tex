@@ -67,6 +67,9 @@ Moreover, the selection process through generations allows for stochasticity thr
 
 Holistic: characterized by the belief that the parts of something are intimately interconnected and explicable only by reference to the whole. (Google dictionary)
 
+Median and average are means to reduce the information of a data set to a single value.
+2D Linear regression reduces it to 2 values (slope and intercept).
+Several algorithms for linear regression: least sum of deviation (robust to outliers), least sum of squared errors (more sensible to outliers because the deviation is squared), maximum likelihood (error distribution given the data set and the parameters), ...
 
 \section*{Ideas}
 Allow GMSE to build the world according to a GIS layer for landscape.\\
@@ -177,6 +180,7 @@ Refute a theory is not abandoning it, it is an encouragement for improvement.\\
 \textbf{"\textit{models are to theoretical problems as experiments are to empirical problems.}"}
 
 \subsection{Individual-based  modelling  and  ecological  theory: synthesis  of  a  workshop (Grimm 1999)}
+\textbf{Key words: individual-based modelling, ecology, conservation, review, complexity.}
 
 3 main arguments against the use of IBMs in Ecology: " complex  models  are  hard  to develop,   hard to   communicate,   and   hard   to understand."\\
 The only way to communicate models is through verbal and mathematics description, but the core of the model is the code, which is incommunicable by definition. It is where all the errors and bugs can dwell, thus falsifying the information taken out of it. No one has the time to implement the model him/herself based on the verbal description. (ndlr - same for experiments by the way! It's time costly to redo an experiment.) Beware of putting more effort in the coding than the the analysis, it could lead to a "WhatYouWantIsWhatYouGet" fallacy. Models has to be as simple as possible! Unnecessary complexity, although being an interesting challenge, would just result in the model being harder to communicate and analyse, thus reducing its scientific value.\\
@@ -289,6 +293,7 @@ Management based on thresholds has proven to be quite difficult in terms of moni
 Too much time spent on revising thresholds and changing monitoring methods.
 
 \subsection{State-and-transition modelling for Adaptive Management of native woodlands (Rumpff, 2011)}
+\textbf{Key words:} Landscape management, state and transition model, Bayesian network, expert elicitation.
 
 "Adaptive Management is a ‘learning by doing’
 approach that acknowledges management action must proceed
@@ -333,6 +338,23 @@ Uncertainty occurs in each of the sub-models population dynamics, population est
 "[\dots] models on the line fishery of the Great Barrier Reef include how individual fishers [\dots] communicate
 information amongst each other." (with references!)\\
 GMSE "has been criticized for: (i) having a longer development time (and thus increased costs) than traditional methods such as reference-based off-take rules; (ii) an upfront MSE can provide an overly rigid framework without room for decision-makers to change management in an adaptive way; and (iii) poor data inputs (e.g., gaps in monitoring or extremely low estimates of uncertainty) affect the performance of MSE, which needs to be recognized and explored within the MSE process." Incapacity to monitor the focal species can also be a highly problematic factor for the implementation of a MSE.
+
+\subsection{Conflicts in conservation: navigating towards solutions. (Redpath et al., 2015)}
+\textbf{Key words:}\\
+
+\subsubsection{Phylosophy, conflict and conservation (Alan Holand)}
+Alan Holand emphasize in the second chapter that it is relevant to assess the impact of the policy (deviation from what would have happened if doing nothing).\\
+Being aware of the consequences of a policy, because it can result in undesirable after effects (e.g. conservation of a certain gorilla species led it to be more vulnerable to human vectored diseases).\\
+Questioning the statement that "more [biodiversity] is better", with a parallel with the tragedy of the commons.\\
+About "commitment to nature", "conservation interest": "a highly complex and even puzzling concept". Examples of divergences: focus on individuals or on 'wholes' (populations, species, ecosystems, \dots), degree of sentience of non-human living beings (\textbf{Sentience is the ability to feel, perceive, or experience subjectively.}(Linguee definition)), the tolerance to the intrusion of 'non-indigenous' species in a ecosystem.\\
+Environmental philosophers: Katz (1987), Elliot (1992), McShane (2007).\\
+The 'conservation interest' should not be related to any individual interest of the conservationist (e.g. I like hiking/climbing/diving like any other researcher, so I want to conserve mountains/seas/oceans to keep on enjoying it in the future) but to a highly intrinsic value of nature regardless of how the conservationist sees it.
+Plus, human interest and well-being is currently contingent with the welfare of the environment.
+Conservationists often behave (probably not being aware of it) as the voice of nature, standing for its interests. But 'nature's interests' does not really make sense, [ndlr] because \textbf{as far as we can tell, except limiting its increase of entropy, an ecosystem is not a goal-oriented entity, neither has any affection for the individuals that compose it}.\\
+Stoicism critique Mill 1874.\\
+"The 'conservation interest' is just an important aspect of 'human interest' in general" in the sense that our survival depends on the fragile balance of ecosystems.\\
+"[\dots] ideals and values are precisely the kind of things that do not normally allow negotiations or compromises."
+
 
 \subsection{Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}
 \textbf{Key words}: management conflicts, lobbying, users compliance, illegal harvesting, GMSE.\\
@@ -506,13 +528,14 @@ the real value of game theory: it provides a general and powerful
 framework for analysing environmental decisions, one that
 adopts a dynamical approach to decisions and naturally lends itself to an appreciation of the ongoing and far-reaching consequences of major environmental decisions."
 
+
 \section{Decision-making}
 
 \section{Artificial intelligence}
 
 \subsection{Genetic algorithms}
 
-\section{Why should we conserve? From an evolutionary point of view.}
+\section{Why do we want to conserve? (From an evolutionary point of view?)}
 Caution! Use more conditional mode.\\
 Does conservation make sense?
 Why do we want it?\\
@@ -534,6 +557,8 @@ The ("non-scientific") non-ecology-related reasons:
     \item It gives us an ethical purpose. We feel better trying to act on it, a sort of compensation for us being at the origin of the problem. Would any other species do that?
     \item Could also be a simple scientific curiosity for the topic. Which would be more understandable than any other reason to me.
     \item Being in control of one's environment seems satisfying to us, it is a feel of power.
+    \item Having a socially accepted/recognized life goal, because in our society we are mostly defined by our occupation.
+    \item Researcher are often further needed to justify their intellectual work, putting "conservation" on it makes consensus on its social "utility".
 \end{itemize}
 
 Luc after someone's response at the lab drink: "Is that a satisfactory answer to your question? We conserve because we want to."
@@ -561,7 +586,13 @@ It would also be interesting to see in which group has which rate and if it chan
 Seems very tough, given that our methods have and are evolving.
 Would it make sense in the way that general, overall biodiversity is not the goal of conservation, but biodiversity inside all the different "functional" groups.
 
-Biodiversity, as the net between ecosystems, species and genetic diversities, is the key for environment to respond to change, and subsist. Losses in any kind of theses bio-diversities, or the links between them, will result in a environment much more sensible/weaker to changes.\\
+Biodiversity, as the net between ecosystems, species and genetic diversities, is the key for environment to respond to change, and subsist. Losses in any kind of theses bio-diversities, or the links between them, will result in a environment much more sensible/weaker to changes. WHY IS THAT SO CONCERNING? It is for us, because it makes our survival less likely in the future! As species that spawn and fray at the same exact location, we assume, in a evolutionary way that the place we are successful in is the best bet we have. Same when it fells weird to leave your home-town to settle elsewhere. We are afraid of change, of uncertainty, because we want to persist in the environment we are successful in? \textbf{Which might cause divergences when someone involved in a conservation process is less successful in his environment, maybe he wants it to change!}\\
+
+7/11/18 Challenge Debate: Do we have a moral responsibility to save the planet?
+Tom said that we have limited empathy for what goes beyond our close circle of relationships, which can explain why we care so few about others, or our environment.
+\textbf{Do conservationists have a higher empathy ability?}
+Holland, in \cite{redpath2015conflicts} second chapter emphasise on the distinction we make between our relatives and our environment.\\
+Sam said that there are other problems more important to resolve, like hunger, homelessness, war, \dots. Alistair answered that most of these problems rise from a unequal repartition, and misuse of resources. He believe that these problems are highly interconnected, and that a better management of the environment would participate to the attenuation of these. I think that as he chose a scientific career, it is probably a good thing he can do to involve in the resolution of these problems.
 
 Post on Sti-CS website: What kind of conservationist are you?
 Cf futureconservation.org.
