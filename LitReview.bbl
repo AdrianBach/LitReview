@@ -25,6 +25,11 @@ Duthie, A.~B., J.~J. Cusack, I.~L. Jones, J.~Minderman, E.~B. Nilsen, R.~A.
 \newblock Gmse: an r package for generalised management strategy evaluation.
 \newblock {\em Methods in Ecology and Evolution}.
 
+\bibitem[\protect\astroncite{Glynatsi et~al.}{2018}]{glynatsi2018evolutionary}
+Glynatsi, N.~E., V.~Knight, and T.~E. Lee\leavevmode\nopagebreak\newline 2018.
+\newblock An evolutionary game theoretic model of rhino horn devaluation.
+\newblock {\em Ecological Modelling}, 389:33--40.
+
 \bibitem[\protect\astroncite{Grimm et~al.}{1999}]{GRIMM1999275}
 Grimm, V., T.~Wyszomirski, D.~Aikman, and
   J.~Uchmański\leavevmode\nopagebreak\newline 1999.
@@ -46,12 +51,17 @@ Myerson, R.~B.\leavevmode\nopagebreak\newline 1997.
   edition.
 \newblock Harvard University Press.
 
-\bibitem[\protect\astroncite{PETERSON
-  et~al.}{2005}]{doi:10.1111/j.1523-1739.2005.00518.x}
+\bibitem[\protect\astroncite{PETERSON et~al.}{2005}]{peterson2005conservation}
 PETERSON, M.~N., M.~J. PETERSON, and T.~R.
   PETERSON\leavevmode\nopagebreak\newline 2005.
 \newblock Conservation and the myth of consensus.
 \newblock {\em Conservation Biology}, 19(3):762--767.
+
+\bibitem[\protect\astroncite{Redpath et~al.}{2015}]{redpath2015conflicts}
+Redpath, S.~M., R.~J. Gutierrez, K.~A. Wood, and J.~C.
+  Young\leavevmode\nopagebreak\newline 2015.
+\newblock {\em Conflicts in conservation: navigating towards solutions}.
+\newblock Cambridge University Press.
 
 \bibitem[\protect\astroncite{Rumpff et~al.}{2011}]{RUMPFF20111224}
 Rumpff, L., D.~Duncan, P.~Vesk, D.~Keith, and
@@ -71,8 +81,8 @@ Runge, M.~C., S.~J. Converse, and J.~E. Lyons\leavevmode\nopagebreak\newline
 \newblock Adaptive management for biodiversity conservation in an uncertain
   world.
 
-\bibitem[\protect\astroncite{van Wilgen and Biggs}{2011}]{VANWILGEN20111179}
-van Wilgen, B. and H.~Biggs\leavevmode\nopagebreak\newline 2011.
+\bibitem[\protect\astroncite{Wilgen and Biggs}{2011}]{VANWILGEN20111179}
+Wilgen, B.~V. and H.~Biggs\leavevmode\nopagebreak\newline 2011.
 \newblock A critical assessment of adaptive ecosystem management in a large
   savanna protected area in south africa.
 \newblock {\em Biological Conservation}, 144(4):1179 -- 1187.
