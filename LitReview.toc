@@ -8,17 +8,18 @@
 \contentsline {subsection}{\numberline {2.3}Which uncertainty? Using expert elicitation and expected value of information to design an adaptive program (Runge 2011)}{10}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}A critical assessment of adaptive ecosystem management in a large savanna protected area in South Africa (Wilgen, 2011)}{11}{subsection.2.4}
 \contentsline {subsection}{\numberline {2.5}State-and-transition modelling for Adaptive Management of native woodlands (Rumpff, 2011)}{12}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}Management strategy evaluation: a powerful tool for conservation? (Bunnefeld, 2011)}{12}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.6}Management strategy evaluation: a powerful tool for conservation? (Bunnefeld, 2011)}{13}{subsection.2.6}
 \contentsline {subsection}{\numberline {2.7}Conflicts in conservation: navigating towards solutions. (Redpath et al., 2015)}{13}{subsection.2.7}
-\contentsline {subsubsection}{\numberline {2.7.1}Phylosophy, conflict and conservation (Alan Holand)}{13}{subsubsection.2.7.1}
+\contentsline {subsubsection}{\numberline {2.7.1}Phylosophy, conflict and conservation (Alan Holand)}{14}{subsubsection.2.7.1}
 \contentsline {subsection}{\numberline {2.8}Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}{14}{subsection.2.8}
-\contentsline {paragraph}{SI.}{15}{section*.6}
-\contentsline {section}{\numberline {3}Game theory}{15}{section.3}
-\contentsline {subsection}{\numberline {3.1}Game Theory, Analysis of Conflict (Myerson,1997)}{15}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Models}{16}{subsubsection.3.1.1}
-\contentsline {subsection}{\numberline {3.2}The conservation game (Colyvan et al., 2011)}{16}{subsection.3.2}
-\contentsline {section}{\numberline {4}Decision-making}{19}{section.4}
-\contentsline {section}{\numberline {5}Artificial intelligence}{19}{section.5}
-\contentsline {subsection}{\numberline {5.1}Genetic algorithms}{19}{subsection.5.1}
-\contentsline {section}{\numberline {6}Why do we want to conserve? (From an evolutionary point of view?)}{19}{section.6}
-\contentsline {section}{\numberline {7}AI ethics}{24}{section.7}
+\contentsline {paragraph}{SI.}{16}{section*.6}
+\contentsline {section}{\numberline {3}Game theory}{16}{section.3}
+\contentsline {subsection}{\numberline {3.1}Game Theory, Analysis of Conflict (Myerson,1997)}{16}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Models}{17}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}The conservation game (Colyvan et al., 2011)}{17}{subsection.3.2}
+\contentsline {section}{\numberline {4}Decision-making}{20}{section.4}
+\contentsline {subsection}{\numberline {4.1}Waiting can be an optimal conservation strategy, even in a crisis discipline (Iacona, 2017)}{20}{subsection.4.1}
+\contentsline {section}{\numberline {5}Artificial intelligence}{20}{section.5}
+\contentsline {subsection}{\numberline {5.1}Genetic algorithms}{20}{subsection.5.1}
+\contentsline {section}{\numberline {6}Why do we want to conserve? (From an evolutionary point of view?)}{20}{section.6}
+\contentsline {section}{\numberline {7}AI ethics}{25}{section.7}
