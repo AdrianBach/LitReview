@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  14 NOV 2018 18:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  14 NOV 2018 18:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1079,6 +1079,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 505--524
  []
 
 [19]
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
+
+ []
+
 <resultsMLR.png, id=268, 1108.14pt x 817.0525pt>
 File: resultsMLR.png Graphic file (type png)
 <use resultsMLR.png>
@@ -1089,7 +1093,7 @@ File: optimisationprocess.png Graphic file (type png)
 <use optimisationprocess.png>
 Package pdftex.def Info: optimisationprocess.png  used on input line 550.
 (pdftex.def)             Requested size: 366.86974pt x 239.39378pt.
- [20] [21 <./resultsMLR.png> <./optimisationprocess.png>] [22]
+[20] [21 <./resultsMLR.png> <./optimisationprocess.png>] [22]
 Underfull \hbox (badness 10000) in paragraph at lines 608--609
 
  []
@@ -1113,7 +1117,7 @@ Package pdftex.def Info: interpretation.png  used on input line 656.
  [26 <./results.png> <./interpretation.png>] (./LitReview.bbl
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
-)) [27]
+) [27]) [28]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 663.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 663.
 
@@ -1125,10 +1129,10 @@ Package rerunfilecheck Info: File `LitReview.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 663.
  ) 
 Here is how much of TeX's memory you used:
- 29417 strings out of 492982
- 678869 string characters out of 6134895
- 852755 words of memory out of 5000000
- 32403 multiletter control sequences out of 15000+600000
+ 29422 strings out of 492982
+ 678949 string characters out of 6134895
+ 852788 words of memory out of 5000000
+ 32406 multiletter control sequences out of 15000+600000
  17876 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,12n,96p,1066b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1144,10 +1148,10 @@ exmf/fonts/type1/public/cm-super/sfsi1200.pfb></usr/share/texmf/fonts/type1/pub
 lic/cm-super/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx120
 0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/te
 xmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on LitReview.pdf (27 pages, 1067616 bytes).
+Output written on LitReview.pdf (28 pages, 1068858 bytes).
 PDF statistics:
- 391 PDF objects out of 1000 (max. 8388607)
- 326 compressed objects within 4 object streams
- 79 named destinations out of 1000 (max. 500000)
+ 396 PDF objects out of 1000 (max. 8388607)
+ 330 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
  242 words of extra memory for PDF output out of 10000 (max. 10000000)
 
