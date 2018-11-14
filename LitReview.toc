@@ -19,7 +19,7 @@
 \contentsline {subsection}{\numberline {3.2}The conservation game (Colyvan et al., 2011)}{17}{subsection.3.2}
 \contentsline {section}{\numberline {4}Decision-making}{20}{section.4}
 \contentsline {subsection}{\numberline {4.1}Waiting can be an optimal conservation strategy, even in a crisis discipline (Iacona, 2017)}{20}{subsection.4.1}
-\contentsline {section}{\numberline {5}Artificial intelligence}{20}{section.5}
-\contentsline {subsection}{\numberline {5.1}Genetic algorithms}{20}{subsection.5.1}
-\contentsline {section}{\numberline {6}Why do we want to conserve? (From an evolutionary point of view?)}{20}{section.6}
-\contentsline {section}{\numberline {7}AI ethics}{25}{section.7}
+\contentsline {section}{\numberline {5}Artificial intelligence}{21}{section.5}
+\contentsline {subsection}{\numberline {5.1}Genetic algorithms}{21}{subsection.5.1}
+\contentsline {section}{\numberline {6}Why do we want to conserve? (From an evolutionary point of view?)}{21}{section.6}
+\contentsline {section}{\numberline {7}AI ethics}{26}{section.7}
