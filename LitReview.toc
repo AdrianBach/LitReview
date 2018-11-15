@@ -11,7 +11,8 @@
 \contentsline {subsection}{\numberline {2.6}Management strategy evaluation: a powerful tool for conservation? (Bunnefeld, 2011)}{13}{subsection.2.6}
 \contentsline {subsection}{\numberline {2.7}Conflicts in conservation: navigating towards solutions. (Redpath et al., 2015)}{13}{subsection.2.7}
 \contentsline {subsubsection}{\numberline {2.7.1}Phylosophy, conflict and conservation (Alan Holand)}{14}{subsubsection.2.7.1}
-\contentsline {subsection}{\numberline {2.8}Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}{14}{subsection.2.8}
+\contentsline {subsection}{\numberline {2.8}Goose management in Scotland: An overview (Bainbridge, 2017)}{14}{subsection.2.8}
+\contentsline {subsection}{\numberline {2.9}Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}{15}{subsection.2.9}
 \contentsline {paragraph}{SI.}{16}{section*.6}
 \contentsline {section}{\numberline {3}Game theory}{16}{section.3}
 \contentsline {subsection}{\numberline {3.1}Game Theory, Analysis of Conflict (Myerson,1997)}{16}{subsection.3.1}
