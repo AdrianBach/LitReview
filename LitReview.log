@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  15 NOV 2018 17:00
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.22)  14 NOV 2018 14:26
->>>>>>> Stashed changes
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.22)  16 NOV 2018 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -595,43 +591,6 @@ File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
 ks.code.tex
 File: pgflibraryplotmarks.code.tex 2013/07/20 v3.0.0 (rcs-revision 1.13)
 )))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/todonotes/todonotes.sty
-Package: todonotes 2012/07/25 .dtx Todonotes source and documentation.
-Package: todonotes 2012/07/25
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks42
-\XKV@tempa@toks=\toks43
-)
-\XKV@depth=\count132
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count133
-\calc@Bcount=\count134
-\calc@Adimen=\dimen183
-\calc@Bdimen=\dimen184
-\calc@Askip=\skip46
-\calc@Bskip=\skip47
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count135
-\calc@Cskip=\skip48
-)
-\c@@todonotes@numberoftodonotes=\count136
-)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
@@ -684,14 +643,14 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen185
-\Hy@linkcounter=\count137
-\Hy@pagecounter=\count138
+\@linkdim=\dimen183
+\Hy@linkcounter=\count132
+\Hy@pagecounter=\count133
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count139
+\Hy@SavedSpaceFactor=\count134
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -704,17 +663,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count140
+\c@Hy@tempcnt=\count135
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen186
-\Fld@menulength=\count141
-\Field@Width=\dimen187
-\Fld@charsize=\dimen188
+\XeTeXLinkMargin=\dimen184
+\Fld@menulength=\count136
+\Field@Width=\dimen185
+\Fld@charsize=\dimen186
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -724,57 +683,57 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count142
-\c@Item=\count143
-\c@Hfootnote=\count144
+\Hy@abspage=\count137
+\c@Item=\count138
+\c@Hfootnote=\count139
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count145
-\c@bookmark@seq@number=\count146
+\Fld@listcount=\count140
+\c@bookmark@seq@number=\count141
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip49
+\Hy@SectionHShift=\skip46
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen189
+\bigstrutjot=\dimen187
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/arydshln/arydshln.sty
 Package: arydshln 2004/08/31 v1.71 
-\dashlinedash=\dimen190
-\dashlinegap=\dimen191
+\dashlinedash=\dimen188
+\dashlinegap=\dimen189
 \adl@box=\box40
-\adl@height=\dimen192
-\adl@heightsave=\dimen193
-\adl@depth=\dimen194
-\adl@depthsave=\dimen195
-\adl@finaldepth=\dimen196
-\adl@columns=\count147
-\adl@ncol=\count148
-\adl@currentcolumn=\count149
-\adl@currentcolumnsave=\count150
-\adl@totalheight=\count151
-\adl@totalheightsave=\count152
-\adl@dash=\count153
-\adl@gap=\count154
-\adl@cla=\count155
-\adl@clb=\count156
-\adl@everyvbox=\toks44
-\adl@LTpagetotal=\dimen197
+\adl@height=\dimen190
+\adl@heightsave=\dimen191
+\adl@depth=\dimen192
+\adl@depthsave=\dimen193
+\adl@finaldepth=\dimen194
+\adl@columns=\count142
+\adl@ncol=\count143
+\adl@currentcolumn=\count144
+\adl@currentcolumnsave=\count145
+\adl@totalheight=\count146
+\adl@totalheightsave=\count147
+\adl@dash=\count148
+\adl@gap=\count149
+\adl@cla=\count150
+\adl@clb=\count151
+\adl@everyvbox=\toks42
+\adl@LTpagetotal=\dimen195
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip50
-\bibsep=\skip51
+\bibhang=\skip47
+\bibsep=\skip48
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count157
+\c@NAT@ctr=\count152
 )
 (./LitReview.aux)
 \openout1 = `LitReview.aux'.
@@ -832,17 +791,17 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count158
-\scratchdimen=\dimen198
+\scratchcounter=\count153
+\scratchdimen=\dimen196
 \scratchbox=\box41
-\nofMPsegments=\count159
-\nofMParguments=\count160
-\everyMPshowfont=\toks45
-\MPscratchCnt=\count161
-\MPscratchDim=\dimen199
-\MPnumerator=\count162
-\makeMPintoPDFobject=\count163
-\everyMPtoPDFconversion=\toks46
+\nofMPsegments=\count154
+\nofMParguments=\count155
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count156
+\MPscratchDim=\dimen197
+\MPnumerator=\count157
+\makeMPintoPDFobject=\count158
+\everyMPtoPDFconversion=\toks44
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -873,7 +832,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count164
+\c@section@level=\count159
 )
 LaTeX Info: Redefining \ref on input line 36.
 LaTeX Info: Redefining \pageref on input line 36.
@@ -891,16 +850,12 @@ y: syn-the-sis of a work-shop (Grimm
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write5
 \openout5 = `LitReview.toc'.
 
-<<<<<<< Updated upstream
 
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
-=======
- (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
->>>>>>> Stashed changes
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 Underfull \hbox (badness 10000) in paragraph at lines 43--54
@@ -908,10 +863,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--54
  []
 
 
-<<<<<<< Updated upstream
-=======
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
->>>>>>> Stashed changes
 Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
@@ -937,20 +888,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
-<<<<<<< Updated upstream
-[4]
-<GMSE-diagram.PNG, id=183, 368.1253pt x 366.61969pt>
-=======
-[4] <GMSE-diagram.PNG, id=173, 368.1253pt x 366.61969pt>
->>>>>>> Stashed changes
+[4] <GMSE-diagram.PNG, id=189, 368.1253pt x 366.61969pt>
 File: GMSE-diagram.PNG Graphic file (type png)
 
 <use GMSE-diagram.PNG>
-<<<<<<< Updated upstream
-Package pdftex.def Info: GMSE-diagram.PNG  used on input line 137.
-=======
-Package pdftex.def Info: GMSE-diagram.PNG used on input line 136.
->>>>>>> Stashed changes
+Package pdftex.def Info: GMSE-diagram.PNG used on input line 137.
 (pdftex.def)             Requested size: 184.0622pt x 183.30939pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 140--141
@@ -1003,21 +945,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
 
-<<<<<<< Updated upstream
-<theoreticalProblems1988.png, id=200, 832.10875pt x 714.67pt>
-=======
-[6] <theoreticalProblems1988.png, id=189, 832.10875pt x 714.67pt>
->>>>>>> Stashed changes
+<theoreticalProblems1988.png, id=206, 832.10875pt x 714.67pt>
 File: theoreticalProblems1988.png Graphic file (type png)
 
 <use theoreticalProblems1988.png>
-<<<<<<< Updated upstream
-Package pdftex.def Info: theoreticalProblems1988.png  used on input line 175.
-=======
-Package pdftex.def Info: theoreticalProblems1988.png used on input line 174.
->>>>>>> Stashed changes
+Package pdftex.def Info: theoreticalProblems1988.png used on input line 175.
 (pdftex.def)             Requested size: 416.05336pt x 357.33412pt.
-[7 <./theoreticalProblems1988.png>]
+ [7] [8 <./theoreticalProblems1988.png>]
 Overfull \hbox (17.27092pt too wide) in paragraph at lines 193--194
 \T1/cmr/bx/n/12 keywords\T1/cmr/m/n/12 : Argument-based, Consensus-based, Con-s
 truc-tion-ist, Sus-tain-able de-vel-op-ment, Democ-
@@ -1028,12 +962,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
-[8]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 214--216
 
  []
 
-[9]
+
 Underfull \hbox (badness 10000) in paragraph at lines 235--236
 
  []
@@ -1043,223 +977,171 @@ Underfull \hbox (badness 10000) in paragraph at lines 237--249
 
  []
 
-
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 250--261
 
  []
 
-[10]
-<EVPI-formula.png, id=220, 1480.53125pt x 180.675pt>
+<EVPI-formula.png, id=226, 1480.53125pt x 180.675pt>
 File: EVPI-formula.png Graphic file (type png)
-<<<<<<< Updated upstream
-<use EVPI-formula.png>
-Package pdftex.def Info: EVPI-formula.png  used on input line 264.
+ <use EVPI-formula.png>
+Package pdftex.def Info: EVPI-formula.png used on input line 264.
 (pdftex.def)             Requested size: 370.13191pt x 45.16862pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 270--271
-=======
- <use EVPI-formula.png>
-Package pdftex.def Info: EVPI-formula.png used on input line 263.
-(pdftex.def)             Requested size: 370.13191pt x 45.16862pt.
-
-[10 <./EVPI-formula.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 269--270
->>>>>>> Stashed changes
 
  []
 
-<managementClassification.png, id=221, 1604.99625pt x 693.59125pt>
+[11 <./EVPI-formula.png>]
+<managementClassification.png, id=232, 1604.99625pt x 693.59125pt>
 File: managementClassification.png Graphic file (type png)
 
 <use managementClassification.png>
-<<<<<<< Updated upstream
-Package pdftex.def Info: managementClassification.png  used on input line 291.
+Package pdftex.def Info: managementClassification.png used on input line 291.
 (pdftex.def)             Requested size: 481.5026pt x 208.07898pt.
-[11 <./EVPI-formula.png>] [12 <./managementClassification.png>]
+ [12 <./managementClassification.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 332--333
-=======
-Package pdftex.def Info: managementClassification.png used on input line 290.
-(pdftex.def)             Requested size: 481.5026pt x 208.07898pt.
- [11 <./managementClassification.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 331--332
->>>>>>> Stashed changes
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
 
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 362--381
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 383--384
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
 
  []
 
-<cusack-results.png, id=242, 944.52875pt x 779.91376pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--394
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+<cusack-results.png, id=252, 944.52875pt x 779.91376pt>
 File: cusack-results.png Graphic file (type png)
 
 <use cusack-results.png>
-<<<<<<< Updated upstream
-Package pdftex.def Info: cusack-results.png  used on input line 386.
+Package pdftex.def Info: cusack-results.png used on input line 399.
 (pdftex.def)             Requested size: 472.26321pt x 389.95593pt.
-[15 <./cusack-results.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 399--411
-=======
-Package pdftex.def Info: cusack-results.png used on input line 363.
-(pdftex.def)             Requested size: 472.26321pt x 389.95593pt.
- [14 <./cusack-results.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 376--388
->>>>>>> Stashed changes
+ [16 <./cusack-results.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 412--424
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--417
-
- []
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 436--438
-
- []
-
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 442.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-Underfull \hbox (badness 10000) in paragraph at lines 495--509
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
 
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 510--526
+Underfull \hbox (badness 10000) in paragraph at lines 447--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--451
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 455.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 508--522
 
  []
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 527--546
+Underfull \hbox (badness 10000) in paragraph at lines 523--539
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 559--560
+Underfull \hbox (badness 10000) in paragraph at lines 540--559
 
  []
 
-<resultsMLR.png, id=273, 1108.14pt x 817.0525pt>
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 572--573
+
+ []
+
+<resultsMLR.png, id=283, 1108.14pt x 817.0525pt>
 File: resultsMLR.png Graphic file (type png)
-<use resultsMLR.png>
-Package pdftex.def Info: resultsMLR.png  used on input line 571.
+ <use resultsMLR.png>
+Package pdftex.def Info: resultsMLR.png used on input line 584.
 (pdftex.def)             Requested size: 387.85481pt x 285.97266pt.
-<optimisationprocess.png, id=274, 733.74126pt x 478.78876pt>
+
+<optimisationprocess.png, id=284, 733.74126pt x 478.78876pt>
 File: optimisationprocess.png Graphic file (type png)
+
 <use optimisationprocess.png>
-Package pdftex.def Info: optimisationprocess.png  used on input line 572.
+Package pdftex.def Info: optimisationprocess.png used on input line 585.
 (pdftex.def)             Requested size: 366.86974pt x 239.39378pt.
-[20] [21 <./resultsMLR.png> <./optimisationprocess.png>] [22]
-Underfull \hbox (badness 10000) in paragraph at lines 630--631
+ [21] [22 <./resultsMLR.png> <./optimisationprocess.png>] [23]
+Underfull \hbox (badness 10000) in paragraph at lines 643--644
 
  []
 
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 642--675
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 655--688
 
  []
 
-<<<<<<< Updated upstream
-[24] [25]
-<results.png, id=306, 603.25375pt x 512.91624pt>
-File: results.png Graphic file (type png)
-<use results.png>
-Package pdftex.def Info: results.png  used on input line 677.
-(pdftex.def)             Requested size: 301.62613pt x 256.45749pt.
-<interpretation.png, id=307, 1140.26pt x 845.1575pt>
-File: interpretation.png Graphic file (type png)
-<use interpretation.png>
-Package pdftex.def Info: interpretation.png  used on input line 678.
-(pdftex.def)             Requested size: 456.09592pt x 338.057pt.
- [26 <./results.png> <./interpretation.png>] (./LitReview.bbl
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-1.def
-=======
-[21] [22] <results.png, id=277, 603.25375pt x 512.91624pt>
+[25] [26] <results.png, id=316, 603.25375pt x 512.91624pt>
 File: results.png Graphic file (type png)
  <use results.png>
-Package pdftex.def Info: results.png used on input line 636.
+Package pdftex.def Info: results.png used on input line 690.
 (pdftex.def)             Requested size: 301.62613pt x 256.45749pt.
 
-<interpretation.png, id=278, 1140.26pt x 845.1575pt>
+<interpretation.png, id=317, 1140.26pt x 845.1575pt>
 File: interpretation.png Graphic file (type png)
  <use interpretation.png>
-Package pdftex.def Info: interpretation.png used on input line 637.
+Package pdftex.def Info: interpretation.png used on input line 691.
 (pdftex.def)             Requested size: 456.09592pt x 338.057pt.
 
-[23] [24 <./results.png> <./interpretation.png>] (./LitReview.bbl
+[27 <./results.png> <./interpretation.png>] (./LitReview.bbl
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-1.def
->>>>>>> Stashed changes
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
-) [27]) [28]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 685.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 685.
+)
+! Misplaced alignment tab character &.
+l.71 \newblock {\em Trends in Ecology &
+                                        Evolution}, 33(6):415--426.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-(./LitReview.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 685.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 685.
+[28]) [29]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 698.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 698.
+ (./LitReview.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 698.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 698.
 Package rerunfilecheck Info: File `LitReview.out' has not changed.
-<<<<<<< Updated upstream
-(rerunfilecheck)             Checksum: BEE1EA5AEF9AB3B0CB3023F1075EEFB4;2529.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 685.
+(rerunfilecheck)             Checksum: C60DC03A70B112B95F19F04C89AECBD0;2665.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 698.
  ) 
 Here is how much of TeX's memory you used:
- 29432 strings out of 492982
- 679149 string characters out of 6134895
- 855781 words of memory out of 5000000
- 32413 multiletter control sequences out of 15000+600000
- 17876 words of font info for 44 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 62i,12n,96p,1066b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/p
-ublic/cm-super/sfbi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1
-200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/
-texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/pu
-blic/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm14
-40.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/t
-exmf/fonts/type1/public/cm-super/sfsi1200.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx120
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/te
-xmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on LitReview.pdf (28 pages, 1070975 bytes).
-=======
-(rerunfilecheck)             Checksum: D7438F8679AB0CBA33E3E8BEDBC5D29D;2274.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 644.
- ) 
-Here is how much of TeX's memory you used:
- 28362 strings out of 493089
- 644487 string characters out of 6134842
- 806824 words of memory out of 5000000
- 31273 multiletter control sequences out of 15000+600000
+ 27834 strings out of 493089
+ 634059 string characters out of 6134842
+ 792291 words of memory out of 5000000
+ 30758 multiletter control sequences out of 15000+600000
  17876 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,12n,77p,1066b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1278,11 +1160,10 @@ ve/2015/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive
 015/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/201
 5/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on LitReview.pdf (25 pages, 821112 bytes).
->>>>>>> Stashed changes
+Output written on LitReview.pdf (29 pages, 1079878 bytes).
 PDF statistics:
- 403 PDF objects out of 1000 (max. 8388607)
- 337 compressed objects within 4 object streams
- 84 named destinations out of 1000 (max. 500000)
- 250 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 413 PDF objects out of 1000 (max. 8388607)
+ 346 compressed objects within 4 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 258 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,10 +1,5 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\astroncite{Bainbridge}{2017}]{Bainbridge2017}
-Bainbridge, I.\leavevmode\nopagebreak\newline 2017.
-\newblock Goose management in scotland: An overview.
-\newblock {\em Ambio}, 46(2):224--230.
-
 \bibitem[\protect\astroncite{Bunnefeld et~al.}{2011}]{BUNNEFELD2011441}
 Bunnefeld, N., E.~Hoshino, and E.~J.
   Milner-Gulland\leavevmode\nopagebreak\newline 2011.
@@ -30,6 +25,12 @@ Duthie, A.~B., J.~J. Cusack, I.~L. Jones, J.~Minderman, E.~B. Nilsen, R.~A.
 \newblock Gmse: an r package for generalised management strategy evaluation.
 \newblock {\em Methods in Ecology and Evolution}.
 
+\bibitem[\protect\astroncite{Game et~al.}{}]{game2013conservation}
+Game, E.~T., E.~Meijaard, D.~Sheil, and
+  E.~McDonald-Madden\leavevmode\nopagebreak\newline.
+\newblock Conservation in a wicked complex world; challenges and solutions.
+\newblock {\em Conservation Letters}, 7(3):271--277.
+
 \bibitem[\protect\astroncite{Glynatsi et~al.}{2018}]{glynatsi2018evolutionary}
 Glynatsi, N.~E., V.~Knight, and T.~E. Lee\leavevmode\nopagebreak\newline 2018.
 \newblock An evolutionary game theoretic model of rhino horn devaluation.
@@ -41,14 +42,6 @@ Grimm, V., T.~Wyszomirski, D.~Aikman, and
 \newblock Individual-based modelling and ecological theory: synthesis of a
   workshop.
 \newblock {\em Ecological Modelling}, 115(2):275 -- 282.
-
-\bibitem[\protect\astroncite{Iacona et~al.}{2017}]{Iacona10497}
-Iacona, G.~D., H.~P. Possingham, and M.~Bode\leavevmode\nopagebreak\newline
-  2017.
-\newblock Waiting can be an optimal conservation strategy, even in a crisis
-  discipline.
-\newblock {\em Proceedings of the National Academy of Sciences},
-  114(39):10497--10502.
 
 \bibitem[\protect\astroncite{Keith et~al.}{2011}]{keith2011uncertainty}
 Keith, D.~A., T.~G. Martin, E.~McDonald-Madden, and
@@ -69,6 +62,19 @@ PETERSON, M.~N., M.~J. PETERSON, and T.~R.
   PETERSON\leavevmode\nopagebreak\newline 2005.
 \newblock Conservation and the myth of consensus.
 \newblock {\em Conservation Biology}, 19(3):762--767.
+
+\bibitem[\protect\astroncite{Redpath et~al.}{2018}]{redpath2018games}
+Redpath, S., A.~Keane, H.~Andr{\'e}n, Z.~Baynham-Herd, N.~Bunnefeld, A.~Duthie,
+  J.~Frank, C.~Garcia, J.~M{\aa}nsson, L.~Nilsson, C.~Pollard, O.~Rakotonarivo,
+  C.~Salk, and H.~Travers\leavevmode\nopagebreak\newline 2018.
+\newblock Games as tools to address conservation conflicts.
+\newblock {\em Trends in Ecology & Evolution}, 33(6):415--426.
+\newblock Funding text: S.R. is grateful for the King Carl XVI Gustaf guest
+  professorship that funded the workshop and allowed him to write this paper.
+  We thank the Swedish Environmental Protection Agency for supporting J.F.,
+  L.N., and J.M. Z.B.H. was supported by a studentship from the Natural
+  Environment Research Council E3 Doctoral training partnership (grant number
+  NERC NE/L002558/1).
 
 \bibitem[\protect\astroncite{Redpath et~al.}{2015}]{redpath2015conflicts}
 Redpath, S.~M., R.~J. Gutierrez, K.~A. Wood, and J.~C.
@@ -93,11 +99,6 @@ Runge, M.~C., S.~J. Converse, and J.~E. Lyons\leavevmode\nopagebreak\newline
 \newblock {\em Biological Conservation}, 144(4):1214 -- 1223.
 \newblock Adaptive management for biodiversity conservation in an uncertain
   world.
-
-\bibitem[\protect\astroncite{Smith and Price}{1973}]{smith1973logic}
-Smith, J.~M. and G.~R. Price\leavevmode\nopagebreak\newline 1973.
-\newblock The logic of animal conflict.
-\newblock {\em Nature}, 246(5427):15.
 
 \bibitem[\protect\astroncite{Wilgen and Biggs}{2011}]{VANWILGEN20111179}
 Wilgen, B.~V. and H.~Biggs\leavevmode\nopagebreak\newline 2011.
