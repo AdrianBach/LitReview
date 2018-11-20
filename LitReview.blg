@@ -3,23 +3,22 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: LitReview.aux
 The style file: humannat.bst
 Database file #1: PhD-litReview.bib
-Warning--empty year in game2013conservation
 You've used 18 entries,
             2155 wiz_defined-function locations,
-            618 strings with 8146 characters,
-and the built_in function-call counts, 8508 in all, are:
+            619 strings with 8150 characters,
+and the built_in function-call counts, 8509 in all, are:
 = -- 792
 > -- 439
 < -- 3
 + -- 170
 - -- 162
-* -- 846
-:= -- 1492
+* -- 847
+:= -- 1493
 add.period$ -- 60
 call.type$ -- 18
 change.case$ -- 169
 chr.to.int$ -- 18
-cite$ -- 19
+cite$ -- 18
 duplicate$ -- 249
 empty$ -- 542
 format.name$ -- 182
@@ -29,11 +28,11 @@ int.to.str$ -- 0
 missing$ -- 20
 newline$ -- 99
 num.names$ -- 54
-pop$ -- 136
+pop$ -- 134
 preamble$ -- 1
 purify$ -- 170
 quote$ -- 0
-skip$ -- 179
+skip$ -- 181
 stack$ -- 0
 substring$ -- 627
 swap$ -- 36
@@ -41,8 +40,7 @@ text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 104
-warning$ -- 1
+warning$ -- 0
 while$ -- 55
 width$ -- 0
-write$ -- 245
-(There was 1 warning)
+write$ -- 246
