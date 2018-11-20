@@ -1,5 +1,19 @@
 \begin{thebibliography}{}
 
+<<<<<<< Updated upstream
+=======
+\bibitem[\protect\astroncite{Bainbridge}{2017}]{Bainbridge2017}
+Bainbridge, I.\leavevmode\nopagebreak\newline 2017.
+\newblock Goose management in scotland: An overview.
+\newblock {\em Ambio}, 46(2):224--230.
+
+\bibitem[\protect\astroncite{Behr et~al.}{2017}]{doi:10.1111/1365-2664.12880}
+Behr, D.~M., A.~Ozgul, and G.~Cozzi\leavevmode\nopagebreak\newline 2017.
+\newblock Combining human acceptance and habitat suitability in a unified
+  socio-ecological suitability model: a case study of the wolf in switzerland.
+\newblock {\em Journal of Applied Ecology}, 54(6):1919--1929.
+
+>>>>>>> Stashed changes
 \bibitem[\protect\astroncite{Bunnefeld et~al.}{2011}]{BUNNEFELD2011441}
 Bunnefeld, N., E.~Hoshino, and E.~J.
   Milner-Gulland\leavevmode\nopagebreak\newline 2011.
@@ -50,6 +64,13 @@ Keith, D.~A., T.~G. Martin, E.~McDonald-Madden, and
 \newblock {\em Biological Conservation}, 144(4):1246 -- 1253.
 \newblock Adaptive management for biodiversity conservation in an uncertain
   world.
+
+\bibitem[\protect\astroncite{Mason et~al.}{2017}]{doi:10.1111/1365-2664.12969}
+Mason, T. H.~E., A.~Keane, S.~M. Redpath, and
+  N.~Bunnefeld\leavevmode\nopagebreak\newline 2017.
+\newblock The changing environment of conservation conflict: Geese and farming
+  in scotland.
+\newblock {\em Journal of Applied Ecology}, 55(2):651--662.
 
 \bibitem[\protect\astroncite{Myerson}{1997}]{citeulike:176006}
 Myerson, R.~B.\leavevmode\nopagebreak\newline 1997.
