@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  20 NOV 2018 17:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  26 NOV 2018 16:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -826,7 +826,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--119
  []
 
 [4]
-<GMSE-diagram.PNG, id=195, 368.1253pt x 366.61969pt>
+<GMSE-diagram.PNG, id=202, 368.1253pt x 366.61969pt>
 File: GMSE-diagram.PNG Graphic file (type png)
 <use GMSE-diagram.PNG>
 Package pdftex.def Info: GMSE-diagram.PNG  used on input line 136.
@@ -884,7 +884,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
-<theoreticalProblems1988.png, id=211, 832.10875pt x 714.67pt>
+<theoreticalProblems1988.png, id=218, 832.10875pt x 714.67pt>
 File: theoreticalProblems1988.png Graphic file (type png)
 <use theoreticalProblems1988.png>
 Package pdftex.def Info: theoreticalProblems1988.png  used on input line 174.
@@ -923,7 +923,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 256--267
 
  []
 
-<EVPI-formula.png, id=233, 1480.53125pt x 180.675pt>
+<EVPI-formula.png, id=240, 1480.53125pt x 180.675pt>
 File: EVPI-formula.png Graphic file (type png)
 <use EVPI-formula.png>
 Package pdftex.def Info: EVPI-formula.png  used on input line 270.
@@ -933,7 +933,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
 
-<managementClassification.png, id=239, 1604.99625pt x 693.59125pt>
+<managementClassification.png, id=246, 1604.99625pt x 693.59125pt>
 File: managementClassification.png Graphic file (type png)
 <use managementClassification.png>
 Package pdftex.def Info: managementClassification.png  used on input line 297.
@@ -953,115 +953,110 @@ Underfull \hbox (badness 10000) in paragraph at lines 380--381
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 382--401
-
- []
-
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 403--404
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
 
  []
 
-<cusack-results.png, id=259, 944.52875pt x 779.91376pt>
+<cusack-results.png, id=266, 944.52875pt x 779.91376pt>
 File: cusack-results.png Graphic file (type png)
 <use cusack-results.png>
-Package pdftex.def Info: cusack-results.png  used on input line 406.
+Package pdftex.def Info: cusack-results.png  used on input line 416.
 (pdftex.def)             Requested size: 472.26321pt x 389.95593pt.
 [16] [17 <./cusack-results.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 419--431
+Underfull \hbox (badness 10000) in paragraph at lines 429--441
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
+Underfull \hbox (badness 10000) in paragraph at lines 446--447
 
  []
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 454--455
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 456--458
+Underfull \hbox (badness 10000) in paragraph at lines 466--468
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 462.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 472.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 515--529
+Underfull \hbox (badness 10000) in paragraph at lines 525--539
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 530--546
+Underfull \hbox (badness 10000) in paragraph at lines 540--556
 
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 547--566
+Underfull \hbox (badness 10000) in paragraph at lines 557--576
 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 579--580
+Underfull \hbox (badness 10000) in paragraph at lines 589--590
 
  []
 
-<resultsMLR.png, id=295, 1108.14pt x 817.0525pt>
+<resultsMLR.png, id=302, 1108.14pt x 817.0525pt>
 File: resultsMLR.png Graphic file (type png)
 <use resultsMLR.png>
-Package pdftex.def Info: resultsMLR.png  used on input line 591.
+Package pdftex.def Info: resultsMLR.png  used on input line 601.
 (pdftex.def)             Requested size: 387.85481pt x 285.97266pt.
-<optimisationprocess.png, id=296, 733.74126pt x 478.78876pt>
+<optimisationprocess.png, id=303, 733.74126pt x 478.78876pt>
 File: optimisationprocess.png Graphic file (type png)
 <use optimisationprocess.png>
-Package pdftex.def Info: optimisationprocess.png  used on input line 592.
+Package pdftex.def Info: optimisationprocess.png  used on input line 602.
 (pdftex.def)             Requested size: 366.86974pt x 239.39378pt.
 [22] [23 <./resultsMLR.png> <./optimisationprocess.png>] [24]
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
+Underfull \hbox (badness 10000) in paragraph at lines 660--661
 
  []
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 662--695
+Underfull \hbox (badness 10000) in paragraph at lines 672--705
 
  []
 
 [26] [27]
-<results.png, id=327, 603.25375pt x 512.91624pt>
+<results.png, id=334, 603.25375pt x 512.91624pt>
 File: results.png Graphic file (type png)
 <use results.png>
-Package pdftex.def Info: results.png  used on input line 697.
+Package pdftex.def Info: results.png  used on input line 707.
 (pdftex.def)             Requested size: 301.62613pt x 256.45749pt.
-<interpretation.png, id=328, 1140.26pt x 845.1575pt>
+<interpretation.png, id=335, 1140.26pt x 845.1575pt>
 File: interpretation.png Graphic file (type png)
 <use interpretation.png>
-Package pdftex.def Info: interpretation.png  used on input line 698.
+Package pdftex.def Info: interpretation.png  used on input line 708.
 (pdftex.def)             Requested size: 456.09592pt x 338.057pt.
  [28 <./results.png> <./interpretation.png>] (./LitReview.bbl
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 ) [29]) [30]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 705.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 705.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 715.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 715.
 
 (./LitReview.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 705.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 705.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 715.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 715.
 Package rerunfilecheck Info: File `LitReview.out' has not changed.
-(rerunfilecheck)             Checksum: 31109163CE37C7FF9C40C2BA5EC75969;2834.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 705.
+(rerunfilecheck)             Checksum: ACA503FF9461C59BB17D4B7093E967A5;3055.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 715.
  ) 
 Here is how much of TeX's memory you used:
- 28786 strings out of 492982
- 666834 string characters out of 6134895
- 834086 words of memory out of 5000000
- 31799 multiletter control sequences out of 15000+600000
+ 28788 strings out of 492982
+ 666866 string characters out of 6134895
+ 835242 words of memory out of 5000000
+ 31800 multiletter control sequences out of 15000+600000
  16751 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,12n,96p,1066b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1077,10 +1072,10 @@ exmf/fonts/type1/public/cm-super/sfsi1200.pfb></usr/share/texmf/fonts/type1/pub
 lic/cm-super/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx120
 0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/te
 xmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on LitReview.pdf (30 pages, 1078898 bytes).
+Output written on LitReview.pdf (30 pages, 1079797 bytes).
 PDF statistics:
- 428 PDF objects out of 1000 (max. 8388607)
- 360 compressed objects within 4 object streams
- 91 named destinations out of 1000 (max. 500000)
- 266 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 435 PDF objects out of 1000 (max. 8388607)
+ 367 compressed objects within 4 object streams
+ 92 named destinations out of 1000 (max. 500000)
+ 274 words of extra memory for PDF output out of 10000 (max. 10000000)
 
