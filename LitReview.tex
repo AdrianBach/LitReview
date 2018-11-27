@@ -10,13 +10,13 @@
 
 %% Useful packages
 %\usepackage{ams}
-\usepackage{amsmath}
+%\usepackage{amsmath}
 \usepackage{graphicx}
 \usepackage{tikz}
 \usepackage{pgfplots}
-%\usepackage{hyperref}
-\usepackage[colorinlistoftodos]{todonotes}
-\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{hyperref}
+%\usepackage[colorinlistoftodos]{todonotes}
+%\usepackage[colorlinks=true, allcolors=blue]{hyperref}
 
 % table options
 \usepackage{multirow}
@@ -26,7 +26,7 @@
 \setlength{\dashlinegap}{4.5pt}
 \setlength{\arrayrulewidth}{0.2pt}
 
-% bibliography shit
+% bibliography 
 \usepackage{natbib}
 \bibliographystyle{humannat}
 
@@ -84,7 +84,8 @@ Emphasize on the fact that a sustainable conservation strategy is not to focus o
 \textbf{WHY SEEKING CONSERVATION ?}\\
 Cognitive bias : anchor effect. We usually need a first guess to calibrate our judgement, but the utility associated with this guess strongly influences the way we estimate the alternative options' utility.\\
 design a survey on how people perceive AI.\\
-\textbf{I could use EVPI to assess the most impacting interaction to implement.} Would require a very precise question!
+\textbf{I could use EVPI to assess the most impacting interaction to implement.} Would require a very precise question!\\
+Be aware of a good trade of between over and under-fitting, or between too flexible and too rigid.
 
 \subsection*{Brad meeting on 12th of October}
 Lands close to public areas suffer from a higher problematic population, because resources reproduce faster in public areas. Plus, the other landowners scare theirs away. There might be a need to adapt policies to public areas proximity.\\
@@ -111,7 +112,6 @@ It could be a mix of money, time, energy, well-being.\\
 Cognitive bias in negotiations: anchor effect.\\
 ConSerVation / ConVerSation. When you turn the Versus over.\\
 Dress a non-exhaustive list of the different models used in conservation management.
-
 
 \section*{GMSE:  an  R  package  for generalised  management  strategy  evaluation - Duthie,  AB,  et al.  (2018).}
 
@@ -185,6 +185,13 @@ Refute a theory is not abandoning it, it is an encouragement for improvement.\\
 3 main arguments against the use of IBMs in Ecology: " complex  models  are  hard  to develop,   hard to   communicate,   and   hard   to understand."\\
 The only way to communicate models is through verbal and mathematics description, but the core of the model is the code, which is incommunicable by definition. It is where all the errors and bugs can dwell, thus falsifying the information taken out of it. No one has the time to implement the model him/herself based on the verbal description. (ndlr - same for experiments by the way! It's time costly to redo an experiment.) Beware of putting more effort in the coding than the the analysis, it could lead to a "WhatYouWantIsWhatYouGet" fallacy. Models has to be as simple as possible! Unnecessary complexity, although being an interesting challenge, would just result in the model being harder to communicate and analyse, thus reducing its scientific value.\\
 Models can definitely help pointing at stuff that needs to be studied in order to understand a mechanism. It's even better to use \textbf{a suite of different model implementations} to prove that the way you code the model does not change the conclusion.
+
+\subsection{NEW HORIZONS FOR MANAGING THE ENVIRONMENT: A REVIEW OF COUPLED SOCIAL-ECOLOGICAL SYSTEMS MODELING (Schlüter, 2012)}
+
+\paragraph{Chapter 3.2.3.} "One of the problems with many traditional decision-making tools in natural resource management is that their outcomes depend on humans behaving in a defined and predicable manner."
+"Unexpected responses of humans to management interventions have been identified as one of the key sources of uncertainty in fisheries management (Fulton et al. [2011]) and wildlife conservation (Keane et al. [2008]). Due to unforeseen behavioral responses of users or consumers or their non  compliance with rules, a measure taken to enhance ecosystem services does not necessarily lead to the expected outcome or may even worsen the situation."\\
+MSE "is also being introduced in a wildlife-management context (Chee and Wintle [2010]) and in catchment management (Turneret al. [2003])."
+
 
 \section{Management strategy in conservation conflicts}
 
@@ -266,7 +273,7 @@ EVPI is the utility gain associated to the fact of knowing \textit{a priori} the
 A positive EVPI traduces a information worth than investment. But only if "it is possible to reduce the uncertainty through monitoring, and whether the short-term costs of acquiring the information are off-set by the long-term benefits of the information".
 
 \subsection{A critical assessment of adaptive ecosystem management in a large savanna protected area in South Africa (Wilgen, 2011)}
-\textbf{Keywords}: National park conservation, Strategy building, Consensus on thresholds, multi-stakeholder conflict, feedback.\\
+\textbf{Keywords}: National park conservation, Strategy building, Consensus on thresholds, multi-stakeholder conflict, feedback, protected area.\\
 
 Interesting to-do-list for planning an adaptive management strategy. can be useful for GMSE?
 
@@ -339,6 +346,20 @@ Uncertainty occurs in each of the sub-models population dynamics, population est
 information amongst each other." (with references!)\\
 GMSE "has been criticized for: (i) having a longer development time (and thus increased costs) than traditional methods such as reference-based off-take rules; (ii) an upfront MSE can provide an overly rigid framework without room for decision-makers to change management in an adaptive way; and (iii) poor data inputs (e.g., gaps in monitoring or extremely low estimates of uncertainty) affect the performance of MSE, which needs to be recognized and explored within the MSE process." Incapacity to monitor the focal species can also be a highly problematic factor for the implementation of a MSE.
 
+\subsection{Conservation in a Wicked Complex World; Challenges and Solutions (Game et al, 2013)}
+\textbf{Keywords:} complexity, wicked problems, inspirations from external fields, adaptive management critique.
+
+"the characteristics of “complex systems”: numerous interacting elements lacking any central control, non-linear interactions between elements,constant change which is seldom reversible, and no clearly defined boundaries to the system (Rosser Jr 2001;Johnson 2007; Mitchell 2009)". In such wicked problem, it is very difficult, no to say impossible to isolate a feature from the other, as all characteristics are densely interconnected.\\
+"There is no “right” solution to wicked problems in complex systems, only trade-offs that appear more or less favourable depending on your perspective.This ambiguity also means that there is rarely any need to declare conservation actions a failure".\\
+Discussion about the relevance of AM in conservation.
+"Less frequently acknowledged is that AM is, at least in part, appealing because it reduces cognitive effort and resources invested in planning; changing the maxim “Ready, Aim,Fire” to “Ready, Fire, Aim” (Patton 2011) though per-haps “Ready, Fire, Aim, Fire” is more suitable." 
+Change of strategies are rare in AM, because assessing the adequacy of a strategy is still very challenging.
+Another tricky problem is that implementing any decision will lead to a change in the system, thus learning from it can be misleading because the condition between the situations has already changed.
+All that could mean that AM is relevant only in simple, small-scale problems.\\
+Authors recommand to use multiple-scenari approach.\\
+"Although conservationists routinely bemoan the lack of funds for their activities (McCarthyet  al. 2012), there is little evidence that bigger budgets make conservation easier or more effective."
+
+
 \subsection{Conflicts in conservation: navigating towards solutions. (Redpath et al., 2015)}
 \textbf{Key words:}\\
 
@@ -355,6 +376,38 @@ Stoicism critique Mill 1874.\\
 "The 'conservation interest' is just an important aspect of 'human interest' in general" in the sense that our survival depends on the fragile balance of ecosystems.\\
 "[\dots] ideals and values are precisely the kind of things that do not normally allow negotiations or compromises."
 
+\subsection{Goose management in Scotland: An overview (Bainbridge, 2017)}
+\textbf{Keywords:} adaptive management, conflict, geese conservation, SNH, politics, deterministic population dynamics modelling.\\
+
+Geese endangered status (recognised during the 1940's) was caused by "a combination of
+hunting for food and sport, systematic persecution and the
+disruption of the Second World War".\\
+Protection measures were really efficient as, in the 1980's, all geese species population numbers increased significantly.
+But this rise in population started a conflicts with farmers, as geese were grazing their crops.
+Especially for farmers owning culture in Special Protection Areas required by the European Bird Collective.
+The first arrangements between the state and these farmers concerning geese control were made in the early 1990's, in the form of payments from government for farmers to allow undisturbed grazing on certain areas, and scare them away in others areas.\\
+Yet, some populations are still increasing nowadays, and farmers started to consider the financial compensation too low for the damages caused.
+Scottish government refused to increase them for financial reasons.
+Farmers then started to control the population by means unapproved by the government.
+Time had come to implement adaptive management of this conflict.\\	
+"In the absence of detailed population data, simple
+deterministic models were developed." Sometimes, the shooting target was beyond the capacities of local communities.\\
+"To summarise, the current position of goose management in Scotland is that there are a limited number of
+winter schemes based on payments to allow feeding of
+geese on agricultural land. There is a limited shooting
+associated with these schemes (Islay only), and a general
+trend to decreasing levels of funding; with a resulting
+increase in farmer dissatisfaction and political activity."
+
+\subsection{Time series analysis reveals synchrony and asynchrony between conflict management effort and increasing large grazing bird populations in northern Europe (Cusack, 2017)}
+\textbf{Keywords: time series, management, large grazing birds, synchronicity analysis, users compliance.}
+
+Synchronicity analysis on population, scaring counts, killing counts, and monetary compensations time series. Comparing the number of time steps where the time series were changing in the same direction, and compare it to a random distribution of the time steps.\\
+Time series were sometimes synchronous and sometimes not. "inconsistent patterns of synchro- or asynchronicity".\\
+"perceived randomness and inconsistent changes in management effort relative to wildlife impacts
+in the short and long terms have been shown to influence the
+level of trust stakeholders place on the decision-making process (Young et al., 2016), as well as their overall responsiveness to policy change (Olson et al., 2015)".\\
+Encouraging managers to wait for proper information to act, so they can be synchroneous with changes in the system.
 
 \subsection{Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}
 \textbf{Key words}: management conflicts, lobbying, users compliance, illegal harvesting, GMSE.\\
@@ -530,6 +583,24 @@ adopts a dynamical approach to decisions and naturally lends itself to an apprec
 
 
 \section{Decision-making}
+
+\subsection{Waiting can be an optimal conservation strategy, even
+in a crisis discipline (Iacona, 2017)}
+\textbf{Key words:} investment choices, optimal delay, forest conservation, restoration, deterministic ODE modelling, numerical optimisation process.\\
+
+Optimal growth in finances, or plant, sometimes include doing nothing, more precisely to invest less resources than usual in buying (balance between consumption and capital investment) or reproduction (less investment in seeds or flowers and more in root stock or growth, waiting for a less unsuitable or competitive time) for a certain amount of time.\\
+Since the problems conservation is dealing with are often irreversible, managers are used to invest resources in acting as soon as they get them. Optimal growth concept applied to management strategy shows that 'doing nothing' is sometimes more profitable for conservation goals. By doing nothing, authors mean invest in other domains than policy application, such as research, monitoring, or even other lucrative placements. But only if the possible outcome outweigh the increase in threat in the meantime.\\
+The complexity of conservation problems (involve many different dynamics) results in temporal heterogeneity.
+Therefore, acting can be more efficient at certain moments than others.
+Just as conservation outcomes can be improved by "identifying the most efficient locations to act in space", finding the best time to act could lead to more efficient management strategies.\\
+"[\dots] model the general trade-off between the benefit of waiting and the cost of delay" with a system of differential equations linking conservation actions with a biodiversity conservation goal (through habitat restoration).
+They chose not to consider any stochasticity nor uncontrollable factors, to ensure a focus on this trade-off.\\
+An extinction debt appears after the destruction of a habitat, but the extinction goes effective gradually, at a (non-linear) rate.
+Extinction debt is modelled as the difference between the number of occuring species and the number of species the landscape could contain (considered as species richness when all habitat is intact).
+\begin{center}
+	\includegraphics[scale=0.35]{resultsMLR.png}
+	\includegraphics[scale=0.5]{optimisationprocess.png}
+\end{center}
 
 \section{Artificial intelligence}
 

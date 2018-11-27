@@ -2,23 +2,29 @@
 \contentsline {section}{\numberline {1}Models in ecology}{7}{section.1}
 \contentsline {subsection}{\numberline {1.1}Theory and models in Ecology: a different perspective. (Caswell, 1988)}{7}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Individual-based modelling and ecological theory: synthesis of a workshop (Grimm 1999)}{8}{subsection.1.2}
-\contentsline {section}{\numberline {2}Management strategy in conservation conflicts}{8}{section.2}
-\contentsline {subsection}{\numberline {2.1}Conservation and the Myth of Consensus (Peterson, 2005)}{8}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Uncertainty and adaptive management for biodiversity conservation (Keith et al., 2011)}{9}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Which uncertainty? Using expert elicitation and expected value of information to design an adaptive program (Runge 2011)}{10}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}A critical assessment of adaptive ecosystem management in a large savanna protected area in South Africa (Wilgen, 2011)}{11}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}State-and-transition modelling for Adaptive Management of native woodlands (Rumpff, 2011)}{12}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}Management strategy evaluation: a powerful tool for conservation? (Bunnefeld, 2011)}{12}{subsection.2.6}
-\contentsline {subsection}{\numberline {2.7}Conflicts in conservation: navigating towards solutions. (Redpath et al., 2015)}{13}{subsection.2.7}
-\contentsline {subsubsection}{\numberline {2.7.1}Phylosophy, conflict and conservation (Alan Holand)}{13}{subsubsection.2.7.1}
-\contentsline {subsection}{\numberline {2.8}Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}{14}{subsection.2.8}
-\contentsline {paragraph}{SI.}{15}{section*.6}
-\contentsline {section}{\numberline {3}Game theory}{15}{section.3}
-\contentsline {subsection}{\numberline {3.1}Game Theory, Analysis of Conflict (Myerson,1997)}{15}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Models}{16}{subsubsection.3.1.1}
-\contentsline {subsection}{\numberline {3.2}The conservation game (Colyvan et al., 2011)}{16}{subsection.3.2}
-\contentsline {section}{\numberline {4}Decision-making}{19}{section.4}
-\contentsline {section}{\numberline {5}Artificial intelligence}{19}{section.5}
-\contentsline {subsection}{\numberline {5.1}Genetic algorithms}{19}{subsection.5.1}
-\contentsline {section}{\numberline {6}Why do we want to conserve? (From an evolutionary point of view?)}{19}{section.6}
-\contentsline {section}{\numberline {7}AI ethics}{24}{section.7}
+\contentsline {subsection}{\numberline {1.3}NEW HORIZONS FOR MANAGING THE ENVIRONMENT: A REVIEW OF COUPLED SOCIAL-ECOLOGICAL SYSTEMS MODELING (Schl\IeC {\"u}ter, 2012)}{9}{subsection.1.3}
+\contentsline {paragraph}{Chapter 3.2.3.}{9}{section*.6}
+\contentsline {section}{\numberline {2}Management strategy in conservation conflicts}{9}{section.2}
+\contentsline {subsection}{\numberline {2.1}Conservation and the Myth of Consensus (Peterson, 2005)}{9}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Uncertainty and adaptive management for biodiversity conservation (Keith et al., 2011)}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Which uncertainty? Using expert elicitation and expected value of information to design an adaptive program (Runge 2011)}{11}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}A critical assessment of adaptive ecosystem management in a large savanna protected area in South Africa (Wilgen, 2011)}{12}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}State-and-transition modelling for Adaptive Management of native woodlands (Rumpff, 2011)}{13}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Management strategy evaluation: a powerful tool for conservation? (Bunnefeld, 2011)}{13}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Conservation in a Wicked Complex World; Challenges and Solutions (Game et al, 2013)}{14}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}Conflicts in conservation: navigating towards solutions. (Redpath et al., 2015)}{15}{subsection.2.8}
+\contentsline {subsubsection}{\numberline {2.8.1}Phylosophy, conflict and conservation (Alan Holand)}{15}{subsubsection.2.8.1}
+\contentsline {subsection}{\numberline {2.9}Goose management in Scotland: An overview (Bainbridge, 2017)}{15}{subsection.2.9}
+\contentsline {subsection}{\numberline {2.10}Time series analysis reveals synchrony and asynchrony between conflict management effort and increasing large grazing bird populations in northern Europe (Cusack, 2017)}{16}{subsection.2.10}
+\contentsline {subsection}{\numberline {2.11}Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}{16}{subsection.2.11}
+\contentsline {paragraph}{SI.}{18}{section*.7}
+\contentsline {section}{\numberline {3}Game theory}{18}{section.3}
+\contentsline {subsection}{\numberline {3.1}Game Theory, Analysis of Conflict (Myerson,1997)}{18}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Models}{19}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}The conservation game (Colyvan et al., 2011)}{19}{subsection.3.2}
+\contentsline {section}{\numberline {4}Decision-making}{22}{section.4}
+\contentsline {subsection}{\numberline {4.1}Waiting can be an optimal conservation strategy, even in a crisis discipline (Iacona, 2017)}{22}{subsection.4.1}
+\contentsline {section}{\numberline {5}Artificial intelligence}{23}{section.5}
+\contentsline {subsection}{\numberline {5.1}Genetic algorithms}{23}{subsection.5.1}
+\contentsline {section}{\numberline {6}Why do we want to conserve? (From an evolutionary point of view?)}{23}{section.6}
+\contentsline {section}{\numberline {7}AI ethics}{28}{section.7}
