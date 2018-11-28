@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.22)  28 NOV 2018 20:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.22)  28 NOV 2018 22:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1038,25 +1038,25 @@ File: optimisationprocess.png Graphic file (type png)
 Package pdftex.def Info: optimisationprocess.png used on input line 602.
 (pdftex.def)             Requested size: 366.86974pt x 239.39378pt.
  [22] [23 <./resultsMLR.png> <./optimisationprocess.png>] [24] [25]
-Underfull \hbox (badness 10000) in paragraph at lines 703--704
+Underfull \hbox (badness 10000) in paragraph at lines 705--706
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 715--748
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 717--750
 
  []
 
-[26] [27] <results.png, id=340, 603.25375pt x 512.91624pt>
+[27] <results.png, id=340, 603.25375pt x 512.91624pt>
 File: results.png Graphic file (type png)
  <use results.png>
-Package pdftex.def Info: results.png used on input line 750.
+Package pdftex.def Info: results.png used on input line 752.
 (pdftex.def)             Requested size: 301.62613pt x 256.45749pt.
 
 <interpretation.png, id=341, 1140.26pt x 845.1575pt>
 File: interpretation.png Graphic file (type png)
  <use interpretation.png>
-Package pdftex.def Info: interpretation.png used on input line 751.
+Package pdftex.def Info: interpretation.png used on input line 753.
 (pdftex.def)             Requested size: 456.09592pt x 338.057pt.
 
 [28] [29 <./results.png> <./interpretation.png>] (./LitReview.bbl
@@ -1064,19 +1064,19 @@ Package pdftex.def Info: interpretation.png used on input line 751.
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 ) [30])
 [31]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 758.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 758.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 760.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 760.
  (./LitReview.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 758.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 758.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 760.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 760.
 Package rerunfilecheck Info: File `LitReview.out' has not changed.
 (rerunfilecheck)             Checksum: DE63622EE8163DC24D961B2A54161425;3202.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 758.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 760.
  ) 
 Here is how much of TeX's memory you used:
  27768 strings out of 493089
  633039 string characters out of 6134842
- 787205 words of memory out of 5000000
+ 785205 words of memory out of 5000000
  30696 multiletter control sequences out of 15000+600000
  16751 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1096,7 +1096,7 @@ ve/2015/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive
 015/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/201
 5/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on LitReview.pdf (31 pages, 1089096 bytes).
+Output written on LitReview.pdf (31 pages, 1089378 bytes).
 PDF statistics:
  448 PDF objects out of 1000 (max. 8388607)
  379 compressed objects within 4 object streams

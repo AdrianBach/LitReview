@@ -617,6 +617,8 @@ the choices of the other players in the game."\\
 \textbf{Initialization.} Generates a population of individuals having different "representations", a group of values associated to different characteristics that describe it.
 It is referred to, in genomic terms, to a 'population' of 'individuals' characterized by a 'chromosome', or 'genotype', containing different 'loci', at which one can find different 'alleles' depending on the individuals.
 \textbf{Fitness assignation.} Each individual is assigned a relevant 'fitness' value depending on how well it solves the problem considered.
+In GMSE, the fitness for managers depends on the expected outcome from the implementation of the strategy, \textit{i.e.} the distance of the expected population count to the conservation target, the smallest the fittest.
+For users, fitness is the sum of utility from the resource variation and from the land productivity variation. the highest the fittest. 
 \textbf{Selection.} The individuals reproduce according to different possible rules. %Reproduction means that a reproductive individual chose randomly another one and a non reproductive individual's genotype will be replaced by either one of the parents genotype (with a 0.5 probability). 
 In GMSE, the non-parametric 'tournament' method has been chosen: some individuals are randomly sampled with replacement from the population and the fittest is chosen for staying at the next time step. The process ends when the number of selected individuals reach the chosen population size.
 \textbf{Crossing-over.} An individual's alleles are swapped with another reproductive individual with certain probability.
