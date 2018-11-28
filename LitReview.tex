@@ -606,6 +606,49 @@ Extinction debt is modelled as the difference between the number of occuring spe
 
 \subsection{Genetic algorithms}
 
+\subsubsection{On the practical usage of genetic algorithms in ecology and evolution (Hamblin, 2012)}
+
+"Genetic algorithms are a heuristic global optimisation technique mimicking the action of natural selection to
+solve hard optimisation problems."\\
+"particularly troublesome when solving
+problems in evolutionary game theory, when the optimal
+strategy is a function of not only an individual’s choice but also
+the choices of the other players in the game."\\
+\textbf{Initialization.} Generates a population of individuals having different "representations", a group of values associated to different characteristics that describe it.
+It is referred to, in genomic terms, to a 'population' of 'individuals' characterized by a 'chromosome', or 'genotype', containing different 'loci', at which one can find different 'alleles' depending on the individuals.
+\textbf{Fitness assignation.} Each individual is assigned a relevant 'fitness' value depending on how well it solves the problem considered.
+\textbf{Selection.} The individuals reproduce according to different possible rules. %Reproduction means that a reproductive individual chose randomly another one and a non reproductive individual's genotype will be replaced by either one of the parents genotype (with a 0.5 probability). 
+In GMSE, the non-parametric 'tournament' method has been chosen: some individuals are randomly sampled with replacement from the population and the fittest is chosen for staying at the next time step. The process ends when the number of selected individuals reach the chosen population size.
+\textbf{Crossing-over.} An individual's alleles are swapped with another reproductive individual with certain probability.
+\textbf{Mutation.} Some allele is modified with a certain probability.
+\textbf{Replacement.} Reorganisation of the population according to the reproductive individuals. Different scenarios can be considered. In GMSE, the whole population is replaced by the winners of the tournament.\\
+"Exploration
+refers to (often random) movement around the search space,
+while exploitation refers to movement along a fitness gradient.
+Genetic algorithms combine exploration (mutation and crossover)
+with exploitation (selection/replacement) to test new
+solutions while increasing the representation of good solutions
+within the population." The user must find the good trade-off between these two features by tweaking the stochasticity-inducing parameters.\\
+"Luke (2009 p.7) neatly summarises the best problems for
+genetic algorithms and othermetaheuristics:
+Metaheuristics are applied to I know it when I see it problems.
+They’re algorithms used to find answers to problems
+when you have very little to help you: you don’t know what
+the optimal solution looks like, you don’t know how to go
+about finding it in a principled way, you have very little
+heuristic information to go on, and brute-force search is
+out of the question because the space is too large. But if
+you’re given a candidate solution to your problem, you can
+test it and assess how good it is. That is, you know a good
+one when you see it."\\
+Interesting use of GAs in co-evolution models, with two GA running in parallel, or allowing interaction parameters in foraging ants to evolve through a GA. Also important in approching EES in game theory problems.\\
+Careful, genetic algorithms can not find EES because by definition, an ESS is a population
+fixated on the proposed ESS solution that has been exposed
+to every other potential strategy (chromosome) by mutation
+and/or crossover (this follows directly from the definition of an
+ESS in Maynard Smith (1982), which makes stability contingent
+on comparison to ‘all possible mutants’)" and did not changed. Plus, it's very likely that the GA did not explored all the possible stable states, or identified mixed stable states.
+ 
 \section{Why do we want to conserve? (From an evolutionary point of view?)}
 Caution! Use more conditional mode.\\
 Does conservation make sense?
