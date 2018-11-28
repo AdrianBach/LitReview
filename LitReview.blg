@@ -5,16 +5,16 @@ The style file: humannat.bst
 Database file #1: PhD-litReview.bib
 You've used 18 entries,
             2155 wiz_defined-function locations,
-            619 strings with 8150 characters,
-and the built_in function-call counts, 8509 in all, are:
-= -- 792
+            618 strings with 7769 characters,
+and the built_in function-call counts, 8500 in all, are:
+= -- 790
 > -- 439
 < -- 3
 + -- 170
 - -- 162
 * -- 847
-:= -- 1493
-add.period$ -- 60
+:= -- 1491
+add.period$ -- 59
 call.type$ -- 18
 change.case$ -- 169
 chr.to.int$ -- 18
@@ -22,13 +22,13 @@ cite$ -- 18
 duplicate$ -- 249
 empty$ -- 542
 format.name$ -- 182
-if$ -- 1619
+if$ -- 1617
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 20
-newline$ -- 99
+newline$ -- 98
 num.names$ -- 54
-pop$ -- 134
+pop$ -- 135
 preamble$ -- 1
 purify$ -- 170
 quote$ -- 0
@@ -43,4 +43,4 @@ type$ -- 104
 warning$ -- 0
 while$ -- 55
 width$ -- 0
-write$ -- 246
+write$ -- 244
