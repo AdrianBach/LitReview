@@ -1,4 +1,4 @@
-\select@language {english}
+\babel@toc {english}{}
 \contentsline {section}{\numberline {1}Models in ecology}{7}{section.1}
 \contentsline {subsection}{\numberline {1.1}Theory and models in Ecology: a different perspective. (Caswell, 1988)}{7}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Individual-based modelling and ecological theory: synthesis of a workshop (Grimm 1999)}{8}{subsection.1.2}
