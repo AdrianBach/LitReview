@@ -1,43 +1,43 @@
-This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: LitReview.aux
 The style file: humannat.bst
 Database file #1: PhD-litReview.bib
 Warning--empty year in doi:10.1111/cobi.12120
 You've used 21 entries,
             2155 wiz_defined-function locations,
-            631 strings with 8474 characters,
-and the built_in function-call counts, 10083 in all, are:
-= -- 937
-> -- 529
-< -- 5
-+ -- 204
-- -- 196
-* -- 993
-:= -- 1759
+            635 strings with 8280 characters,
+and the built_in function-call counts, 9768 in all, are:
+= -- 908
+> -- 494
+< -- 4
++ -- 190
+- -- 182
+* -- 972
+:= -- 1713
 add.period$ -- 68
 call.type$ -- 21
-change.case$ -- 200
+change.case$ -- 194
 chr.to.int$ -- 21
 cite$ -- 22
-duplicate$ -- 304
-empty$ -- 633
-format.name$ -- 219
-if$ -- 1930
+duplicate$ -- 291
+empty$ -- 630
+format.name$ -- 205
+if$ -- 1861
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 23
 newline$ -- 113
 num.names$ -- 63
-pop$ -- 164
+pop$ -- 155
 preamble$ -- 1
-purify$ -- 201
+purify$ -- 195
 quote$ -- 0
-skip$ -- 228
+skip$ -- 210
 stack$ -- 0
-substring$ -- 723
-swap$ -- 55
-text.length$ -- 1
+substring$ -- 720
+swap$ -- 42
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 122
