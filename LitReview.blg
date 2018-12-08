@@ -3,46 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: LitReview.aux
 The style file: humannat.bst
 Database file #1: PhD-litReview.bib
-Warning--empty year in doi:10.1111/cobi.12120
-You've used 21 entries,
+You've used 26 entries,
             2155 wiz_defined-function locations,
-            635 strings with 8280 characters,
-and the built_in function-call counts, 9768 in all, are:
-= -- 908
-> -- 494
-< -- 4
-+ -- 190
-- -- 182
-* -- 972
-:= -- 1713
-add.period$ -- 68
-call.type$ -- 21
-change.case$ -- 194
-chr.to.int$ -- 21
-cite$ -- 22
-duplicate$ -- 291
-empty$ -- 630
-format.name$ -- 205
-if$ -- 1861
+            665 strings with 9320 characters,
+and the built_in function-call counts, 12169 in all, are:
+= -- 1136
+> -- 618
+< -- 6
++ -- 238
+- -- 228
+* -- 1215
+:= -- 2132
+add.period$ -- 83
+call.type$ -- 26
+change.case$ -- 242
+chr.to.int$ -- 26
+cite$ -- 26
+duplicate$ -- 361
+empty$ -- 780
+format.name$ -- 258
+if$ -- 2311
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 23
-newline$ -- 113
-num.names$ -- 63
-pop$ -- 155
+missing$ -- 28
+newline$ -- 138
+num.names$ -- 78
+pop$ -- 189
 preamble$ -- 1
-purify$ -- 195
+purify$ -- 243
 quote$ -- 0
-skip$ -- 210
+skip$ -- 264
 stack$ -- 0
-substring$ -- 720
-swap$ -- 42
+substring$ -- 906
+swap$ -- 52
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 122
-warning$ -- 1
-while$ -- 64
+type$ -- 152
+warning$ -- 0
+while$ -- 83
 width$ -- 0
-write$ -- 282
-(There was 1 warning)
+write$ -- 348

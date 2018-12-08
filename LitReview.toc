@@ -23,8 +23,9 @@
 \contentsline {subsubsection}{\numberline {3.1.1}Models}{19}{subsubsection.3.1.1}
 \contentsline {subsection}{\numberline {3.2}The conservation game (Colyvan et al., 2011)}{19}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Evolution of cooperation in stochastic games (Hilbe2018cooperation)}{22}{subsection.3.3}
-\contentsline {section}{\numberline {4}Decision-making}{22}{section.4}
-\contentsline {subsection}{\numberline {4.1}Waiting can be an optimal conservation strategy, even in a crisis discipline (Iacona, 2017)}{22}{subsection.4.1}
+\contentsline {subsection}{\numberline {3.4}Maintaining cooperation in social-ecological systems:Effective bottom-up management often requires sub-optimal resource use (Tilman, 2016)}{22}{subsection.3.4}
+\contentsline {section}{\numberline {4}Decision-making}{23}{section.4}
+\contentsline {subsection}{\numberline {4.1}Waiting can be an optimal conservation strategy, even in a crisis discipline (Iacona, 2017)}{23}{subsection.4.1}
 \contentsline {section}{\numberline {5}Artificial intelligence}{24}{section.5}
 \contentsline {subsection}{\numberline {5.1}Genetic algorithms}{24}{subsection.5.1}
 \contentsline {subsubsection}{\numberline {5.1.1}On the practical usage of genetic algorithms in ecology and evolution (Hamblin, 2012)}{24}{subsubsection.5.1.1}
