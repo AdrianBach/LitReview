@@ -740,6 +740,40 @@ Variable characteristics: hunger, energy level, social rank, age, belonging to a
 
 \textbf{Critique:} Interesting methodology but rigid schema, don't understand how emotions affected the priority order, conclusions are a bit rough, don't really understand how they tested their hypothesis, what was their prediction, and how they drew conclusions on 'emergent' behaviours.
 
+\subsubsection{Policy Learning for Continuous Space Security Games using Neural Networks}
+\textbf{keywords:} 
+
+Continuous strategies games, where strategies are defined by values on different continuous action scales (e.g. here the position and angle of a agent on a map).
+As opposed to traditional games (e.g. here like rock paper scissors), where the possible actions are discrete objects in a defined ensemble.
+Forest Security Game: a circular map of a forest with randomly distributed trees from a forest center.
+Starring forest defenders, protecting a forest from opponents wanting to log it.
+Defenders policy is a set of radius and angle couples for forest guardians with a fixed visual range.
+Opponents policy is a set of distances and angles, determining where the lumberjack will stop (along a line going from the boundary position they appeared at, towards the forest center) and log.
+If the lumberjack trajectory crossed the visual range of a guardian, they will loose their wood and be fined.
+Reward for the opponent is the number of logged trees minus the fines.
+The reward for the defender is minus the opponent's reward.
+Each player updates its strategy according to an estimation of the other's.
+Defender deploys the policy first, guessing the opponent's. The opponent deploys a policy after observing the defender's.\\
+\textbf{Strategy}:"Conventionally, a player's mixed strategy is a probability distribution over the player's actions given the game
+state (s)."
+Meaning the probabilities of each ACTION to be undertaken by the player change according to the game state s.
+A player's strategy is the set of probability functions (here weight parameters?) associated with each action, given a game state.
+\textbf{Action}: something that can be undertaken by players. Here, a SET of angles and a distances to place the agents.
+\textbf{Policy}: "A player's policy is a mapping
+from game states to mixed strategies". It is the fact of choosing a strategy given a state s.
+"Since
+this is a stateless game [continuous actions], there is no distinction between policy
+and mixed strategy."\\
+Purpose: given a state s, find the weight parameters that maximizes a player's reward, and minimizes the opponent's $=$ Best Response policy.
+Two methods proposed.
+\textbf{Gradient optimization:} each episode, a replay-memory of previous actions is created and available for both players.
+(Weight parameters are initialized randomly. Actions are drawn from each player's strategies at the state s, and for these weight parameters. What is available are combinations of state s and both players actions.)
+A player samples state-actions combinations from the replay memory, fixes its action and compute the rewards for each of the opponent's other actions.
+What we obtain is some kind of 3D space of x a player's actions, y the opponent's action, and z the player's reward.
+Gradient optimization then compute how to modify the weights parameters to reach the optimal reward.
+\textbf{Convolutional Neural Network:} model reads in the forest map, identify it as a state and outputs the parameters of the logit-normal distribution of the actions for defender and opponent.
+
+
 \subsection{Genetic algorithms}
 
 \subsubsection{On the practical usage of genetic algorithms in ecology and evolution (Hamblin, 2012)}
@@ -748,7 +782,7 @@ Variable characteristics: hunger, energy level, social rank, age, belonging to a
 solve hard optimisation problems."\\
 "particularly troublesome when solving
 problems in evolutionary game theory, when the optimal
-strategy is a function of not only an individual’s choice but also
+strategy is a function of not only an individual's choice but also
 the choices of the other players in the game."\\
 \textbf{Initialization.} Generates a population of individuals having different "representations", a group of values associated to different characteristics that describe it.
 It is referred to, in genomic terms, to a 'population' of 'individuals' characterized by a 'chromosome', or 'genotype', containing different 'loci', at which one can find different 'alleles' depending on the individuals.
