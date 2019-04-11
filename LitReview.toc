@@ -1,41 +1,44 @@
 \babel@toc {english}{}
-\contentsline {section}{\numberline {1}Trondheim workshop 09/01-11/09/19}{5}{section.1}
-\contentsline {subsection}{\numberline {1.1}General bibliography}{5}{subsection.1.1}
-\contentsline {subsubsection}{\numberline {1.1.1}premier article lu, celui qui etait soporifique}{5}{subsubsection.1.1.1}
-\contentsline {subsubsection}{\numberline {1.1.2}How sure are you? (Goodman, \textit {Science} 2018)}{5}{subsubsection.1.1.2}
-\contentsline {subsubsection}{\numberline {1.1.3}The framing of decision and psychology of choice (Tversky, 2010)}{5}{subsubsection.1.1.3}
-\contentsline {section}{\numberline {2}Models in ecology}{8}{section.2}
-\contentsline {subsection}{\numberline {2.1}Theory and models in Ecology: a different perspective. (Caswell, 1988)}{8}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Individual-based modelling and ecological theory: synthesis of a workshop (Grimm 1999)}{9}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}NEW HORIZONS FOR MANAGING THE ENVIRONMENT: A REVIEW OF COUPLED SOCIAL-ECOLOGICAL SYSTEMS MODELING (Schl\IeC {\"u}ter, 2012)}{10}{subsection.2.3}
-\contentsline {paragraph}{Chapter 3.2.3.}{10}{section*.6}
-\contentsline {section}{\numberline {3}Management strategy in conservation conflicts}{10}{section.3}
-\contentsline {subsection}{\numberline {3.1}Conservation and the Myth of Consensus (Peterson, 2005)}{10}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Uncertainty and adaptive management for biodiversity conservation (Keith et al., 2011)}{11}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Which uncertainty? Using expert elicitation and expected value of information to design an adaptive program (Runge 2011)}{12}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}A critical assessment of adaptive ecosystem management in a large savanna protected area in South Africa (Wilgen, 2011)}{13}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}State-and-transition modelling for Adaptive Management of native woodlands (Rumpff, 2011)}{14}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Management strategy evaluation: a powerful tool for conservation? (Bunnefeld, 2011)}{14}{subsection.3.6}
-\contentsline {subsection}{\numberline {3.7}Conservation in a Wicked Complex World; Challenges and Solutions (Game et al, 2013)}{15}{subsection.3.7}
-\contentsline {subsection}{\numberline {3.8}Conflicts in conservation: navigating towards solutions. (Redpath et al., 2015)}{16}{subsection.3.8}
-\contentsline {subsubsection}{\numberline {3.8.1}Phylosophy, conflict and conservation (Alan Holand)}{16}{subsubsection.3.8.1}
-\contentsline {subsection}{\numberline {3.9}Goose management in Scotland: An overview (Bainbridge, 2017)}{16}{subsection.3.9}
-\contentsline {subsection}{\numberline {3.10}Time series analysis reveals synchrony and asynchrony between conflict management effort and increasing large grazing bird populations in northern Europe (Cusack, 2017)}{17}{subsection.3.10}
-\contentsline {subsection}{\numberline {3.11}Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}{17}{subsection.3.11}
-\contentsline {paragraph}{SI.}{19}{section*.7}
-\contentsline {subsection}{\numberline {3.12}When is a \IeC {\textquotedblleft }wait and see\IeC {\textquotedblright } approach to invasive species justified? (Sims \& Finnoff, 2013)}{19}{subsection.3.12}
-\contentsline {section}{\numberline {4}Game theory}{19}{section.4}
-\contentsline {subsection}{\numberline {4.1}Game Theory, Analysis of Conflict (Myerson,1997)}{19}{subsection.4.1}
-\contentsline {subsubsection}{\numberline {4.1.1}Models}{20}{subsubsection.4.1.1}
-\contentsline {subsection}{\numberline {4.2}The conservation game (Colyvan et al., 2011)}{20}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Evolutionary games and population dynamics: maintenance of cooperation in public goods games (Hauert et al., 2013)}{23}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Evolution of cooperation in stochastic games (Hilbe2018cooperation)}{23}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Maintaining cooperation in social-ecological systems:Effective bottom-up management often requires sub-optimal resource use (Tilman, 2016)}{24}{subsection.4.5}
-\contentsline {section}{\numberline {5}Decision-making}{24}{section.5}
-\contentsline {subsection}{\numberline {5.1}Waiting can be an optimal conservation strategy, even in a crisis discipline (Iacona, 2017)}{24}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Antagonistic Crowd Simulation model with Emotional contagion and Evolutionary game}{26}{subsection.5.2}
-\contentsline {section}{\numberline {6}Artificial intelligence}{26}{section.6}
-\contentsline {subsection}{\numberline {6.1}Genetic algorithms}{26}{subsection.6.1}
-\contentsline {subsubsection}{\numberline {6.1.1}On the practical usage of genetic algorithms in ecology and evolution (Hamblin, 2012)}{26}{subsubsection.6.1.1}
-\contentsline {section}{\numberline {7}Why do we want to conserve? (From an evolutionary point of view?)}{27}{section.7}
-\contentsline {section}{\numberline {8}AI ethics}{32}{section.8}
+\contentsline {section}{\numberline {1}Trondheim workshop 09/01-11/09/19}{6}{section.1}
+\contentsline {subsection}{\numberline {1.1}General bibliography}{6}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}premier article lu, celui qui etait soporifique}{6}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}How sure are you? (Goodman, \textit {Science} 2018)}{6}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3}The framing of decision and psychology of choice (Tversky, 2010)}{6}{subsubsection.1.1.3}
+\contentsline {section}{\numberline {2}Models in ecology}{9}{section.2}
+\contentsline {subsection}{\numberline {2.1}Theory and models in Ecology: a different perspective. (Caswell, 1988)}{9}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Individual-based modelling and ecological theory: synthesis of a workshop (Grimm 1999)}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}NEW HORIZONS FOR MANAGING THE ENVIRONMENT: A REVIEW OF COUPLED SOCIAL-ECOLOGICAL SYSTEMS MODELING (Schl\IeC {\"u}ter, 2012)}{11}{subsection.2.3}
+\contentsline {paragraph}{Chapter 3.2.3.}{11}{section*.7}
+\contentsline {subsection}{\numberline {2.4}Ecologists should not use statistical significance tests to interpret simulation model results (White et al., 2013)}{11}{subsection.2.4}
+\contentsline {section}{\numberline {3}Management strategy in conservation conflicts}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Conservation and the Myth of Consensus (Peterson, 2005)}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Uncertainty and adaptive management for biodiversity conservation (Keith et al., 2011)}{12}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Which uncertainty? Using expert elicitation and expected value of information to design an adaptive program (Runge 2011)}{13}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}A critical assessment of adaptive ecosystem management in a large savanna protected area in South Africa (Wilgen, 2011)}{14}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}State-and-transition modelling for Adaptive Management of native woodlands (Rumpff, 2011)}{15}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Management strategy evaluation: a powerful tool for conservation? (Bunnefeld, 2011)}{16}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Conservation in a Wicked Complex World; Challenges and Solutions (Game et al, 2013)}{16}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}Conflicts in conservation: navigating towards solutions. (Redpath et al., 2015)}{17}{subsection.3.8}
+\contentsline {subsubsection}{\numberline {3.8.1}Phylosophy, conflict and conservation (Alan Holand)}{17}{subsubsection.3.8.1}
+\contentsline {subsection}{\numberline {3.9}Goose management in Scotland: An overview (Bainbridge, 2017)}{18}{subsection.3.9}
+\contentsline {subsection}{\numberline {3.10}Time series analysis reveals synchrony and asynchrony between conflict management effort and increasing large grazing bird populations in northern Europe (Cusack, 2017)}{18}{subsection.3.10}
+\contentsline {subsection}{\numberline {3.11}Social conflicts increase the risk of natural resource mismanagement (Cusack, in review, 2018)}{19}{subsection.3.11}
+\contentsline {paragraph}{SI.}{20}{section*.8}
+\contentsline {subsection}{\numberline {3.12}When is a \IeC {\textquotedblleft }wait and see\IeC {\textquotedblright } approach to invasive species justified? (Sims \& Finnoff, 2013)}{20}{subsection.3.12}
+\contentsline {section}{\numberline {4}Game theory}{20}{section.4}
+\contentsline {subsection}{\numberline {4.1}Game Theory, Analysis of Conflict (Myerson,1997)}{20}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Models}{21}{subsubsection.4.1.1}
+\contentsline {subsection}{\numberline {4.2}The conservation game (Colyvan et al., 2011)}{21}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Evolutionary games and population dynamics: maintenance of cooperation in public goods games (Hauert et al., 2013)}{24}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Evolution of cooperation in stochastic games (Hilbe2018cooperation)}{25}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Maintaining cooperation in social-ecological systems:Effective bottom-up management often requires sub-optimal resource use (Tilman, 2016)}{25}{subsection.4.5}
+\contentsline {section}{\numberline {5}Artificial intelligence}{26}{section.5}
+\contentsline {subsection}{\numberline {5.1}Decision-making}{26}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Waiting can be an optimal conservation strategy, even in a crisis discipline (Iacona, 2017)}{26}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Antagonistic Crowd Simulation model with Emotional contagion and Evolutionary game}{27}{subsubsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.3}Emotions, Implicit Information that allows the Conscious Phenomenon (laureano-Cruces et al., 2018)}{28}{subsubsection.5.1.3}
+\contentsline {subsubsection}{\numberline {5.1.4}Policy Learning for Continuous Space Security Games using Neural Networks}{28}{subsubsection.5.1.4}
+\contentsline {subsection}{\numberline {5.2}Genetic algorithms}{29}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}On the practical usage of genetic algorithms in ecology and evolution (Hamblin, 2012)}{29}{subsubsection.5.2.1}
+\contentsline {section}{\numberline {6}Why do we want to conserve? (From an evolutionary point of view?)}{30}{section.6}
+\contentsline {section}{\numberline {7}AI ethics}{35}{section.7}

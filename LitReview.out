@@ -7,32 +7,35 @@
 \BOOKMARK [2][-]{subsection.2.1}{Theory and models in Ecology: a different perspective. \(Caswell, 1988\)}{section.2}% 7
 \BOOKMARK [2][-]{subsection.2.2}{Individual-based modelling and ecological theory: synthesis of a workshop \(Grimm 1999\)}{section.2}% 8
 \BOOKMARK [2][-]{subsection.2.3}{NEW HORIZONS FOR MANAGING THE ENVIRONMENT: A REVIEW OF COUPLED SOCIAL-ECOLOGICAL SYSTEMS MODELING \(Schl\374ter, 2012\)}{section.2}% 9
-\BOOKMARK [1][-]{section.3}{Management strategy in conservation conflicts}{}% 10
-\BOOKMARK [2][-]{subsection.3.1}{Conservation and the Myth of Consensus \(Peterson, 2005\)}{section.3}% 11
-\BOOKMARK [2][-]{subsection.3.2}{Uncertainty and adaptive management for biodiversity conservation \(Keith et al., 2011\)}{section.3}% 12
-\BOOKMARK [2][-]{subsection.3.3}{Which uncertainty? Using expert elicitation and expected value of information to design an adaptive program \(Runge 2011\)}{section.3}% 13
-\BOOKMARK [2][-]{subsection.3.4}{A critical assessment of adaptive ecosystem management in a large savanna protected area in South Africa \(Wilgen, 2011\)}{section.3}% 14
-\BOOKMARK [2][-]{subsection.3.5}{State-and-transition modelling for Adaptive Management of native woodlands \(Rumpff, 2011\)}{section.3}% 15
-\BOOKMARK [2][-]{subsection.3.6}{Management strategy evaluation: a powerful tool for conservation? \(Bunnefeld, 2011\)}{section.3}% 16
-\BOOKMARK [2][-]{subsection.3.7}{Conservation in a Wicked Complex World; Challenges and Solutions \(Game et al, 2013\)}{section.3}% 17
-\BOOKMARK [2][-]{subsection.3.8}{Conflicts in conservation: navigating towards solutions. \(Redpath et al., 2015\)}{section.3}% 18
-\BOOKMARK [3][-]{subsubsection.3.8.1}{Phylosophy, conflict and conservation \(Alan Holand\)}{subsection.3.8}% 19
-\BOOKMARK [2][-]{subsection.3.9}{Goose management in Scotland: An overview \(Bainbridge, 2017\)}{section.3}% 20
-\BOOKMARK [2][-]{subsection.3.10}{Time series analysis reveals synchrony and asynchrony between conflict management effort and increasing large grazing bird populations in northern Europe \(Cusack, 2017\)}{section.3}% 21
-\BOOKMARK [2][-]{subsection.3.11}{Social conflicts increase the risk of natural resource mismanagement \(Cusack, in review, 2018\)}{section.3}% 22
-\BOOKMARK [2][-]{subsection.3.12}{When is a \215wait and see\216 approach to invasive species justified? \(Sims \046 Finnoff, 2013\)}{section.3}% 23
-\BOOKMARK [1][-]{section.4}{Game theory}{}% 24
-\BOOKMARK [2][-]{subsection.4.1}{Game Theory, Analysis of Conflict \(Myerson,1997\)}{section.4}% 25
-\BOOKMARK [3][-]{subsubsection.4.1.1}{Models}{subsection.4.1}% 26
-\BOOKMARK [2][-]{subsection.4.2}{The conservation game \(Colyvan et al., 2011\)}{section.4}% 27
-\BOOKMARK [2][-]{subsection.4.3}{Evolutionary games and population dynamics: maintenance of cooperation in public goods games \(Hauert et al., 2013\)}{section.4}% 28
-\BOOKMARK [2][-]{subsection.4.4}{Evolution of cooperation in stochastic games \(Hilbe2018cooperation\)}{section.4}% 29
-\BOOKMARK [2][-]{subsection.4.5}{Maintaining cooperation in social-ecological systems:Effective bottom-up management often requires sub-optimal resource use \(Tilman, 2016\)}{section.4}% 30
-\BOOKMARK [1][-]{section.5}{Decision-making}{}% 31
-\BOOKMARK [2][-]{subsection.5.1}{Waiting can be an optimal conservation strategy, even in a crisis discipline \(Iacona, 2017\)}{section.5}% 32
-\BOOKMARK [2][-]{subsection.5.2}{Antagonistic Crowd Simulation model with Emotional contagion and Evolutionary game}{section.5}% 33
-\BOOKMARK [1][-]{section.6}{Artificial intelligence}{}% 34
-\BOOKMARK [2][-]{subsection.6.1}{Genetic algorithms}{section.6}% 35
-\BOOKMARK [3][-]{subsubsection.6.1.1}{On the practical usage of genetic algorithms in ecology and evolution \(Hamblin, 2012\)}{subsection.6.1}% 36
-\BOOKMARK [1][-]{section.7}{Why do we want to conserve? \(From an evolutionary point of view?\)}{}% 37
-\BOOKMARK [1][-]{section.8}{AI ethics}{}% 38
+\BOOKMARK [2][-]{subsection.2.4}{Ecologists should not use statistical significance tests to interpret simulation model results \(White et al., 2013\)}{section.2}% 10
+\BOOKMARK [1][-]{section.3}{Management strategy in conservation conflicts}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Conservation and the Myth of Consensus \(Peterson, 2005\)}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.2}{Uncertainty and adaptive management for biodiversity conservation \(Keith et al., 2011\)}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.3}{Which uncertainty? Using expert elicitation and expected value of information to design an adaptive program \(Runge 2011\)}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.4}{A critical assessment of adaptive ecosystem management in a large savanna protected area in South Africa \(Wilgen, 2011\)}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.5}{State-and-transition modelling for Adaptive Management of native woodlands \(Rumpff, 2011\)}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.6}{Management strategy evaluation: a powerful tool for conservation? \(Bunnefeld, 2011\)}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.7}{Conservation in a Wicked Complex World; Challenges and Solutions \(Game et al, 2013\)}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.8}{Conflicts in conservation: navigating towards solutions. \(Redpath et al., 2015\)}{section.3}% 19
+\BOOKMARK [3][-]{subsubsection.3.8.1}{Phylosophy, conflict and conservation \(Alan Holand\)}{subsection.3.8}% 20
+\BOOKMARK [2][-]{subsection.3.9}{Goose management in Scotland: An overview \(Bainbridge, 2017\)}{section.3}% 21
+\BOOKMARK [2][-]{subsection.3.10}{Time series analysis reveals synchrony and asynchrony between conflict management effort and increasing large grazing bird populations in northern Europe \(Cusack, 2017\)}{section.3}% 22
+\BOOKMARK [2][-]{subsection.3.11}{Social conflicts increase the risk of natural resource mismanagement \(Cusack, in review, 2018\)}{section.3}% 23
+\BOOKMARK [2][-]{subsection.3.12}{When is a \215wait and see\216 approach to invasive species justified? \(Sims \046 Finnoff, 2013\)}{section.3}% 24
+\BOOKMARK [1][-]{section.4}{Game theory}{}% 25
+\BOOKMARK [2][-]{subsection.4.1}{Game Theory, Analysis of Conflict \(Myerson,1997\)}{section.4}% 26
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Models}{subsection.4.1}% 27
+\BOOKMARK [2][-]{subsection.4.2}{The conservation game \(Colyvan et al., 2011\)}{section.4}% 28
+\BOOKMARK [2][-]{subsection.4.3}{Evolutionary games and population dynamics: maintenance of cooperation in public goods games \(Hauert et al., 2013\)}{section.4}% 29
+\BOOKMARK [2][-]{subsection.4.4}{Evolution of cooperation in stochastic games \(Hilbe2018cooperation\)}{section.4}% 30
+\BOOKMARK [2][-]{subsection.4.5}{Maintaining cooperation in social-ecological systems:Effective bottom-up management often requires sub-optimal resource use \(Tilman, 2016\)}{section.4}% 31
+\BOOKMARK [1][-]{section.5}{Artificial intelligence}{}% 32
+\BOOKMARK [2][-]{subsection.5.1}{Decision-making}{section.5}% 33
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Waiting can be an optimal conservation strategy, even in a crisis discipline \(Iacona, 2017\)}{subsection.5.1}% 34
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Antagonistic Crowd Simulation model with Emotional contagion and Evolutionary game}{subsection.5.1}% 35
+\BOOKMARK [3][-]{subsubsection.5.1.3}{Emotions, Implicit Information that allows the Conscious Phenomenon \(laureano-Cruces et al., 2018\)}{subsection.5.1}% 36
+\BOOKMARK [3][-]{subsubsection.5.1.4}{Policy Learning for Continuous Space Security Games using Neural Networks}{subsection.5.1}% 37
+\BOOKMARK [2][-]{subsection.5.2}{Genetic algorithms}{section.5}% 38
+\BOOKMARK [3][-]{subsubsection.5.2.1}{On the practical usage of genetic algorithms in ecology and evolution \(Hamblin, 2012\)}{subsection.5.2}% 39
+\BOOKMARK [1][-]{section.6}{Why do we want to conserve? \(From an evolutionary point of view?\)}{}% 40
+\BOOKMARK [1][-]{section.7}{AI ethics}{}% 41

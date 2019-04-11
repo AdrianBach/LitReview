@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  14 FEB 2019 14:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  11 APR 2019 17:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -821,256 +821,257 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--67
  []
 
 [3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
 
  []
 
-<GMSE-diagram.PNG, id=267, 368.1253pt x 366.61969pt>
+[6]
+<GMSE-diagram.PNG, id=291, 368.1253pt x 366.61969pt>
 File: GMSE-diagram.PNG Graphic file (type png)
 <use GMSE-diagram.PNG>
-Package pdftex.def Info: GMSE-diagram.PNG  used on input line 176.
+Package pdftex.def Info: GMSE-diagram.PNG  used on input line 207.
 (pdftex.def)             Requested size: 184.0622pt x 183.30939pt.
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
+[7 <./GMSE-diagram.PNG>]
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-34.def
 File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
 )
-Overfull \hbox (56.48312pt too wide) in paragraph at lines 181--189
+Overfull \hbox (56.48312pt too wide) in paragraph at lines 212--220
 \T1/cmr/bx/n/12 Land util-ity\T1/cmr/m/n/12 : When land_ownership = FALSE(defau
 lt,modelling users that har-vest resources),Uures=$\OMS/cmsy/m/n/12 ^^@$\T1/cmr
 /m/n/12 1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
-[7 <./GMSE-diagram.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 196.
+[8]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 227.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 196.
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 227.
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--198
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
+Underfull \hbox (badness 10000) in paragraph at lines 227--229
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
  []
 
-<theoreticalProblems1988.png, id=284, 832.10875pt x 714.67pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+<theoreticalProblems1988.png, id=308, 832.10875pt x 714.67pt>
 File: theoreticalProblems1988.png Graphic file (type png)
 <use theoreticalProblems1988.png>
-Package pdftex.def Info: theoreticalProblems1988.png  used on input line 214.
+Package pdftex.def Info: theoreticalProblems1988.png  used on input line 245.
 (pdftex.def)             Requested size: 416.05336pt x 357.33412pt.
-[8] [9 <./theoreticalProblems1988.png>]
+[9] [10 <./theoreticalProblems1988.png>]
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-Overfull \hbox (17.27092pt too wide) in paragraph at lines 239--240
+Overfull \hbox (17.27092pt too wide) in paragraph at lines 280--281
 \T1/cmr/bx/n/12 keywords\T1/cmr/m/n/12 : Argument-based, Consensus-based, Con-s
 truc-tion-ist, Sus-tain-able de-vel-op-ment, Democ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
-
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 260--262
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 281--282
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--295
+Underfull \hbox (badness 10000) in paragraph at lines 324--336
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--307
+Underfull \hbox (badness 10000) in paragraph at lines 337--348
 
  []
 
-<EVPI-formula.png, id=305, 1480.53125pt x 180.675pt>
+[13]
+<EVPI-formula.png, id=333, 1480.53125pt x 180.675pt>
 File: EVPI-formula.png Graphic file (type png)
 <use EVPI-formula.png>
-Package pdftex.def Info: EVPI-formula.png  used on input line 310.
+Package pdftex.def Info: EVPI-formula.png  used on input line 351.
 (pdftex.def)             Requested size: 370.13191pt x 45.16862pt.
-[12 <./EVPI-formula.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 316--317
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
 
-<managementClassification.png, id=311, 1604.99625pt x 693.59125pt>
+<managementClassification.png, id=334, 1604.99625pt x 693.59125pt>
 File: managementClassification.png Graphic file (type png)
 <use managementClassification.png>
-Package pdftex.def Info: managementClassification.png  used on input line 337.
+Package pdftex.def Info: managementClassification.png  used on input line 378.
 (pdftex.def)             Requested size: 481.5026pt x 208.07898pt.
-[13 <./managementClassification.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
-
- []
-
-[14] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 404--405
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
+[14 <./EVPI-formula.png>] [15 <./managementClassification.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
 
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 453--454
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
 
  []
 
-<cusack-results.png, id=331, 944.52875pt x 779.91376pt>
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--495
+
+ []
+
+[18]
+<cusack-results.png, id=358, 944.52875pt x 779.91376pt>
 File: cusack-results.png Graphic file (type png)
 <use cusack-results.png>
-Package pdftex.def Info: cusack-results.png  used on input line 456.
+Package pdftex.def Info: cusack-results.png  used on input line 497.
 (pdftex.def)             Requested size: 472.26321pt x 389.95593pt.
-[17] [18 <./cusack-results.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 495--496
-
- []
-
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 513--514
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 515--517
-
- []
-
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 521.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-Underfull \hbox (badness 10000) in paragraph at lines 574--588
+ [19 <./cusack-results.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
 
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 589--605
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--558
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 562.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 615--629
 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 606--625
+Underfull \hbox (badness 10000) in paragraph at lines 630--646
 
  []
 
 [22]
+Underfull \hbox (badness 10000) in paragraph at lines 647--666
 
-LaTeX Warning: Command \dh invalid in math mode on input line 637.
+ []
 
-
-LaTeX Warning: Command \TH invalid in math mode on input line 637.
-
-Missing character: There is no ð in font cmr12!
-Missing character: There is no Þ in font cmr12!
-
-Overfull \hbox (20.89005pt too wide) in paragraph at lines 639--639
+[23] [24]
+Overfull \hbox (20.89005pt too wide) in paragraph at lines 685--685
 []\T1/cmr/bx/n/14.4 Evolution of co-op-er-a-tion in stochas-tic games (Hilbe201
 8cooperation) 
  []
 
-[23]
-Overfull \hbox (31.86879pt too wide) in paragraph at lines 678--678
+
+Overfull \hbox (31.86879pt too wide) in paragraph at lines 724--724
 []\T1/cmr/bx/n/14.4 Maintaining co-op-er-a-tion in social-ecological sys-tems:E
 ffective bottom-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 687--688
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 735--736
 
  []
 
-[24]
-<resultsMLR.png, id=375, 1108.14pt x 817.0525pt>
+<resultsMLR.png, id=399, 1108.14pt x 817.0525pt>
 File: resultsMLR.png Graphic file (type png)
 <use resultsMLR.png>
-Package pdftex.def Info: resultsMLR.png  used on input line 699.
+Package pdftex.def Info: resultsMLR.png  used on input line 747.
 (pdftex.def)             Requested size: 387.85481pt x 285.97266pt.
-<optimisationprocess.png, id=376, 733.74126pt x 478.78876pt>
+<optimisationprocess.png, id=400, 733.74126pt x 478.78876pt>
 File: optimisationprocess.png Graphic file (type png)
 <use optimisationprocess.png>
-Package pdftex.def Info: optimisationprocess.png  used on input line 700.
+Package pdftex.def Info: optimisationprocess.png  used on input line 748.
 (pdftex.def)             Requested size: 366.86974pt x 239.39378pt.
- [25 <./resultsMLR.png> <./optimisationprocess.png>] [26] [27]
-Underfull \hbox (badness 10000) in paragraph at lines 813--814
+[26]
+Overfull \hbox (31.14536pt too wide) in paragraph at lines 761--761
+[]\T1/cmr/bx/n/12 Emotions, Im-plicit In-for-ma-tion that al-lows the Con-sciou
+s Phe-nomenon (laureano-
+ []
+
+[27 <./resultsMLR.png> <./optimisationprocess.png>] [28] [29] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 906--907
 
  []
 
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 825--858
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 918--951
 
  []
 
-[29] [30]
-<results.png, id=407, 603.25375pt x 512.91624pt>
+[32] [33]
+<results.png, id=440, 603.25375pt x 512.91624pt>
 File: results.png Graphic file (type png)
 <use results.png>
-Package pdftex.def Info: results.png  used on input line 860.
+Package pdftex.def Info: results.png  used on input line 953.
 (pdftex.def)             Requested size: 301.62613pt x 256.45749pt.
-<interpretation.png, id=408, 1140.26pt x 845.1575pt>
+<interpretation.png, id=441, 1140.26pt x 845.1575pt>
 File: interpretation.png Graphic file (type png)
 <use interpretation.png>
-Package pdftex.def Info: interpretation.png  used on input line 861.
+Package pdftex.def Info: interpretation.png  used on input line 954.
 (pdftex.def)             Requested size: 456.09592pt x 338.057pt.
- [31 <./results.png>] [32 <./interpretation.png>] (./LitReview.bbl
+ [34 <./results.png>] [35 <./interpretation.png>] (./LitReview.bbl
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
-) [33] [34])
-[35]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 868.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 868.
+) [36] [37])
+[38]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 961.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 961.
  (./LitReview.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 868.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 868.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 961.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 961.
 Package rerunfilecheck Info: File `LitReview.out' has not changed.
-(rerunfilecheck)             Checksum: E33399C5FCA137A5A89378F1A422A2E9;4433.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 868.
+(rerunfilecheck)             Checksum: F5A6CBAFF1D8B66C569723D91A06A57C;4927.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 961.
  ) 
 Here is how much of TeX's memory you used:
- 28851 strings out of 492982
- 668200 string characters out of 6134895
- 839150 words of memory out of 5000000
- 31838 multiletter control sequences out of 15000+600000
+ 28861 strings out of 492982
+ 668371 string characters out of 6134895
+ 841971 words of memory out of 5000000
+ 31841 multiletter control sequences out of 15000+600000
  16751 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,12n,96p,1066b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1087,10 +1088,10 @@ onts/type1/public/cm-super/sfsi1200.pfb></usr/share/texmf/fonts/type1/public/cm
 -super/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb>
 </usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fo
 nts/type1/public/cm-super/sftt1200.pfb>
-Output written on LitReview.pdf (35 pages, 1110483 bytes).
+Output written on LitReview.pdf (38 pages, 1120849 bytes).
 PDF statistics:
- 535 PDF objects out of 1000 (max. 8388607)
- 460 compressed objects within 5 object streams
- 117 named destinations out of 1000 (max. 500000)
- 362 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 570 PDF objects out of 1000 (max. 8388607)
+ 492 compressed objects within 5 object streams
+ 124 named destinations out of 1000 (max. 500000)
+ 386 words of extra memory for PDF output out of 10000 (max. 10000000)
 
